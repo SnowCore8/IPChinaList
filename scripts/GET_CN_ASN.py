@@ -61,7 +61,7 @@ def save_asn_to_yaml(asns):
                 asn_number = asn_number[0].replace('AS', '')
                 asn_name = asn_name[0].strip()
                 
-                asn_info = f"  - IP-ASN,{asn_number},DIRECT # {asn_name}"
+                asn_info = f"  - IP-ASN,{asn_number} # {asn_name}"
                 asn_file.write(asn_info + "\n")
     print("ASN 数据已成功保存到 china_asn_mihomo.yaml 文件中")
 
