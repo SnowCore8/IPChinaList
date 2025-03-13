@@ -55,7 +55,7 @@ def generate_mihomo_yaml(ipv4_blocks, ipv6_blocks):
     with open('china_ipv4_mihomo.yaml', 'w') as ipv4_yaml_file:
         ipv4_yaml_file.write("payload:\n")
         for block in ipv4_blocks:
-            ipv4_yaml_file.write(f"  - IP-CIDR,{block},DIRECR\n")
+            ipv4_yaml_file.write(f"  - IP-CIDR,{block},DIRECT\n")
     print("中国的IPv4地址段已成功生成mihomo的yaml规则到china_ipv4_mihomo.yaml文件中")
 
     # 生成IPv6的yaml规则
