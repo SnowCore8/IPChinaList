@@ -22,6 +22,7 @@ jobs:
           pip install requests lxml
       - name: Run Python
         run: |
+          python scripts/GET_CN_ASN.py
           python scripts/GET_CN_IP.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
