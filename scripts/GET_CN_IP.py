@@ -55,14 +55,14 @@ def generate_mihomo_yaml(ipv4_blocks, ipv6_blocks):
     with open('china_ipv4_mihomo.yaml', 'w') as ipv4_yaml_file:
         ipv4_yaml_file.write("payload:\n")
         for block in ipv4_blocks:
-            ipv4_yaml_file.write(f"  - IP-CIDR,{block},DIRECT\n")
+            ipv4_yaml_file.write(f"  - IP-CIDR,{block}\n")
     print("中国的IPv4地址段已成功生成mihomo的yaml规则到china_ipv4_mihomo.yaml文件中")
 
     # 生成IPv6的yaml规则
     with open('china_ipv6_mihomo.yaml', 'w') as ipv6_yaml_file:
         ipv6_yaml_file.write("payload:\n")
         for block in ipv6_blocks:
-            ipv6_yaml_file.write(f"  - IP-CIDR6,{block},DIRECT\n")
+            ipv6_yaml_file.write(f"  - IP-CIDR6,{block}\n")
     print("中国的IPv6地址段已成功生成mihomo的yaml规则到china_ipv6_mihomo.yaml文件中")
 
 if __name__ == "__main__":
