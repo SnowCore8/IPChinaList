@@ -442,6 +442,7 @@ payload:
   - IP-ASN,131486 # Beijing Jingdong 360 Degree E-commerce Co., Ltd.
   - IP-ASN,131325 # China Telecom KunMing
   - IP-ASN,9401 # National Library of China
+  - IP-ASN,64021 # Network-Transit
   - IP-ASN,63727 # Huawei
   - IP-ASN,63719 # Gansu Province Radio and Television Network Co., Ltd.
   - IP-ASN,63704 # Guizhou provincial radio and television information Network Inc
@@ -787,7 +788,6 @@ payload:
   - IP-ASN,151782 # Zhao Xingxing
   - IP-ASN,151674 # Cheng Yijia
   - IP-ASN,151673 # Chen Xinyu
-  - IP-ASN,151640 # Bengbu Qingye Technology
   - IP-ASN,151494 # Lin Kangyi
   - IP-ASN,151493 # Beijing Kouding Technology Co., Ltd
   - IP-ASN,151490 # GaonIT
