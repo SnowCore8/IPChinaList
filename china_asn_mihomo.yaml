@@ -326,7 +326,6 @@ payload:
   - IP-ASN,131558 # Wal-mart (China) Investment Co., Ltd.
   - IP-ASN,131495 # Beijing nine cloud infinite network technology co., LTD
   - IP-ASN,131285 # CHINATELECOM Hubei province Shengji 5G network
-  - IP-ASN,131192 # APNIC 32-bit ASN block
   - IP-ASN,10206 # China Unicom Zhongwei Cloud
   - IP-ASN,9803 # Beijing Jingxun Public Information Technology Co., Ltd
   - IP-ASN,9802 # Abitcool(China) Inc.
@@ -676,6 +675,7 @@ payload:
   - IP-ASN,215007 # BOZHAN LIANG
   - IP-ASN,214963 # Puhe You
   - IP-ASN,214921 # Yisong Wang
+  - IP-ASN,214911 # Li Hang
   - IP-ASN,214899 # Ye Liliang
   - IP-ASN,214871 # Jiping Yu
   - IP-ASN,214843 # Haoyu Yang
