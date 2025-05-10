@@ -108,7 +108,6 @@ payload:
   - IP-ASN,55960 # Beijing Guanghuan Xinwang Digital
   - IP-ASN,38381 # west wing no.157,dongsi west street Dongcheng, Beijing, China
   - IP-ASN,38375 # GSGH security LLC
-  - IP-ASN,38372 # Foshan Tongyuan Intelligent Technology Co., Ltd
   - IP-ASN,38057 # Dell (China) Co.,Ltd
   - IP-ASN,37965 # Pacnet Business Solutions LTD
   - IP-ASN,24444 # Shandong Mobile Communication Company Limited
@@ -150,6 +149,7 @@ payload:
   - IP-ASN,4816 # China Telecom (Group)
   - IP-ASN,45062 # NetEase Building No.16 Ke Yun Road,
   - IP-ASN,38379 # No.9 Building, No.619 Longchang Road,Shanghai,China
+  - IP-ASN,38372 # Foshan Tongyuan Intelligent Technology Co., Ltd
   - IP-ASN,38358 # 3 Fuxing Road, Beijing, China
   - IP-ASN,38340 # 263 Shanghai Communications Ltd.
   - IP-ASN,38019 # tianjin Mobile Communication Company Limited
@@ -184,7 +184,6 @@ payload:
   - IP-ASN,134542 # China Unicom IP network
   - IP-ASN,133952 # Zhengzhou longling technology ltd.
   - IP-ASN,133475 # New York University ASN
-  - IP-ASN,131578 # Beijing Foreign Studies University
   - IP-ASN,131574 # Beijing Haiyu Technology Co. Ltd..
   - IP-ASN,131486 # Beijing Jingdong 360 Degree E-commerce Co., Ltd.
   - IP-ASN,9939 # DYXNET of Shenzhen Communication Co., Ltd.
@@ -253,6 +252,7 @@ payload:
   - IP-ASN,212371 # Huizhou HuiGu CloudTech Co., Ltd.
   - IP-ASN,210041 # Licheng MAO
   - IP-ASN,209218 # Yang Qi
+  - IP-ASN,199436 # BangLong Yang
   - IP-ASN,199392 # SHIZHENG NIE
   - IP-ASN,199310 # XIN BING XIAN
   - IP-ASN,18239 # NO.11 Xi San Huan Zhong Road,Beijing
@@ -322,6 +322,7 @@ payload:
   - IP-ASN,133111 # CERNET New Technology Co., Ltd
   - IP-ASN,132525 # HeiLongJiang Mobile Communication Company Limited
   - IP-ASN,132225 # China Telecom
+  - IP-ASN,131578 # Beijing Foreign Studies University
   - IP-ASN,131562 # HUNAN CATV Network Group CO.,LTD.
   - IP-ASN,131558 # Wal-mart (China) Investment Co., Ltd.
   - IP-ASN,131495 # Beijing nine cloud infinite network technology co., LTD
@@ -436,6 +437,7 @@ payload:
   - IP-ASN,23662 # CHINANET Gansu province network
   - IP-ASN,23611 # CHINANET Gansu province network
   - IP-ASN,215786 # Peng Wang
+  - IP-ASN,214575 # Curious Universe (Chongqing) Technology Co., Ltd
   - IP-ASN,213769 # wang guanwei
   - IP-ASN,213519 # HANG YANG
   - IP-ASN,212164 # Jiaxian He
@@ -686,7 +688,6 @@ payload:
   - IP-ASN,214660 # junlin chen
   - IP-ASN,214613 # YANG MAN
   - IP-ASN,214610 # YangXu Liao
-  - IP-ASN,214575 # Curious Universe (Chongqing) Technology Co., Ltd
   - IP-ASN,214439 # Zhuhai Xiyun Cloud Technology Co., Ltd.
   - IP-ASN,214203 # Nanning Huifa Technology Co., Ltd.
   - IP-ASN,214040 # RUNNAN WEN
@@ -757,7 +758,6 @@ payload:
   - IP-ASN,200021 # Tianhong Peng
   - IP-ASN,199932 # Tianle Shi
   - IP-ASN,199832 # QUN LIN
-  - IP-ASN,199436 # BangLong Yang
   - IP-ASN,198527 # Haolin Li
   - IP-ASN,198516 # Yi Huang
   - IP-ASN,198266 # Yunrui Gu
