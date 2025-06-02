@@ -46,6 +46,12 @@ def filter_and_save_china_ips(apnic_file):
             ipv6_file.write(block + '\n')
     print("中国的IPv6地址段已成功保存到china_ipv6.txt文件中")
 
+    # 保存IPv4&IPv6地址段到txt文件
+    with open('china_ip.txt', 'w') as ip_file:
+        for block in ipv4_blocks + ipv6_blocks:
+            ip_file.write(block + '\n')
+    print("中国的IPv4&IPv6地址段已成功保存到china_ip.txt文件中")
+
     # 生成mihomo的yaml规则
     generate_mihomo_yaml(ipv4_blocks, ipv6_blocks)
 
