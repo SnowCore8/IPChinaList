@@ -50,6 +50,21 @@ def save_asn_to_yaml(asns):
         print("没有 ASN 数据可保存")
         return
     
+    print("正在将 ASN 数据保存到 TXT 文件...")
+    with open("china_asn.txt", "a", encoding="utf-8") as asn_file:
+        for asn in asns:
+            # 提取 ASN 号码和名称
+            asn_number = asn.xpath('.//td[1]/a/text()')
+            asn_name = asn.xpath('.//td[2]/text()')
+            
+            if asn_number and asn_name:
+                asn_number = asn_number[0].replace('AS', '')
+                asn_name = asn_name[0].strip()
+                
+                asn_info = f"{asn_number} # {asn_name}"
+                asn_file.write(asn_info + "\n")
+    print("ASN 数据已成功保存到 china_asn.txt 文件中")
+    
     print("正在将 ASN 数据保存到 YAML 文件...")
     with open("china_asn_mihomo.yaml", "a", encoding="utf-8") as asn_file:
         for asn in asns:
