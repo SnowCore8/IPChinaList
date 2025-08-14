@@ -2018,7 +2018,9 @@ payload:
   - IP-CIDR6,240b:8000::/21
   - IP-CIDR6,240b:a000::/25
   - IP-CIDR6,240b:e000::/26
-  - IP-CIDR6,240c::/28
+  - IP-CIDR6,240c::/32
+  - IP-CIDR6,240c:6::/32
+  - IP-CIDR6,240c:f::/32
   - IP-CIDR6,240c:4000::/22
   - IP-CIDR6,240c:8000::/21
   - IP-CIDR6,240c:c000::/20
