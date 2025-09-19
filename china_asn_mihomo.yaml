@@ -156,7 +156,6 @@ payload:
   - IP-ASN,136180 # Beijing Tiantexin Tech. Co., Ltd.
   - IP-ASN,135629 # Ningxia West Cloud Data Technology Co.Ltd.
   - IP-ASN,135432 # Visa Information Technology Beijing Co. Ltd.
-  - IP-ASN,133776 # China Telecom Quanzhou
   - IP-ASN,131486 # Beijing Jingdong 360 Degree E-commerce Co., Ltd.
   - IP-ASN,9818 # Internet Finance Laboratory
   - IP-ASN,9811 # Development & Research Center of State Council Net.
@@ -208,6 +207,7 @@ payload:
   - IP-ASN,24139 # Huashu media&Network Limited
   - IP-ASN,23852 # 17/FL, International Bank Center,
   - IP-ASN,23841 # 6/F, No.3 Huatian Road, New Technology Industry Area
+  - IP-ASN,213625 # Xuluo Chen
   - IP-ASN,209306 # Jin Shaohai
   - IP-ASN,205651 # Hao Qiao
   - IP-ASN,17969 # ChongQing Broadcast & TV Transfer Network Co. Ltd
@@ -251,6 +251,7 @@ payload:
   - IP-ASN,134420 # Chongqing Telecom
   - IP-ASN,134417 # Nanjing
   - IP-ASN,133952 # Zhengzhou longling technology ltd.
+  - IP-ASN,133776 # China Telecom Quanzhou
   - IP-ASN,133774 # China Telecom Fujian Fuzhou IDC
   - IP-ASN,133475 # New York University ASN
   - IP-ASN,133465 # Duke Kunshan University
@@ -327,7 +328,6 @@ payload:
   - IP-ASN,151823 # China Telecom
   - IP-ASN,151640 # Bengbu Qingye Technology
   - IP-ASN,151464 # Shanghai Luogu Network Technology Co., Ltd.
-  - IP-ASN,151302 # Hebei Sea Whale Technology Co. Ltd.
   - IP-ASN,151277 # China Broadcast Network International Co.,Ltd
   - IP-ASN,151058 # China Telecom
   - IP-ASN,150166 # The New Development Bank
@@ -346,9 +346,7 @@ payload:
   - IP-ASN,146771 # CCB Fintech Co., Ltd.
   - IP-ASN,146758 # ShangHai Sensetime Technology Development Co., Ltd.
   - IP-ASN,146746 # TaiKang Insurance Group CO.,LTD.,Wuhan Operating Center
-  - IP-ASN,142611 # Shanghai Tujuan Information Technology Co., Ltd.
   - IP-ASN,142608 # China Telecom
-  - IP-ASN,142433 # DATAWAVE GLOBAL LLC
   - IP-ASN,141998 # China Telecom
   - IP-ASN,141771 # China Telecom
   - IP-ASN,141739 # China Telecom
@@ -530,7 +528,6 @@ payload:
   - IP-ASN,23611 # CHINANET Gansu province network
   - IP-ASN,215786 # Peng Wang
   - IP-ASN,214899 # Ye Liliang
-  - IP-ASN,213625 # Xuluo Chen
   - IP-ASN,213404 # Suzhou Yesong Information Technology Co., Ltd.
   - IP-ASN,212164 # Jiaxian He
   - IP-ASN,211843 # Nanjing Tiankai Information Technology Co.Ltd.
@@ -557,6 +554,7 @@ payload:
   - IP-ASN,152120 # China Unicom TianJing GaoCun IDC network
   - IP-ASN,151951 # Shenzhen lesuyun Network Technology Co., Ltd
   - IP-ASN,151311 # Shenzhen Humeng Technology Co., Ltd
+  - IP-ASN,151302 # Hebei Sea Whale Technology Co. Ltd.
   - IP-ASN,151300 # APNIC ASN block
   - IP-ASN,151296 # Changzhou Jieyun Network Technology Co. Ltd.
   - IP-ASN,151295 # Jiangsu Yinsuyun Network Technology Co. , Ltd.
@@ -579,6 +577,8 @@ payload:
   - IP-ASN,146802 # China Broadcasting Network Yunnan Co.,Ltd
   - IP-ASN,146792 # Shanghai Shenfu Information Technology Co., Ltd
   - IP-ASN,146772 # Shenzhen Pengcheng communication network Co., Ltd
+  - IP-ASN,142611 # Shanghai Tujuan Information Technology Co., Ltd.
+  - IP-ASN,142433 # DATAWAVE GLOBAL LLC
   - IP-ASN,142404 # China Telecom
   - IP-ASN,141776 # Baoshuo Network
   - IP-ASN,141006 # China Telecom
