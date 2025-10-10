@@ -15,8 +15,8 @@ payload:
   - IP-ASN,209650 # Wu Zhiyuan
   - IP-ASN,56048 # China Mobile Communicaitons Corporation
   - IP-ASN,139799 # Beijing Dajia Internet Information Technology Co., Ltd.
-  - IP-ASN,146762 # NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
   - IP-ASN,24400 # Shanghai Mobile Communications Co.,Ltd.
+  - IP-ASN,146762 # NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
   - IP-ASN,4538 # China Education and Research Network Center
   - IP-ASN,4812 # China Telecom (Group)
   - IP-ASN,17621 # China Unicom Shanghai network
@@ -56,6 +56,7 @@ payload:
   - IP-ASN,24489 # Trans-Eurasia Information Network (TEIN2) - North
   - IP-ASN,24409 # China Internet Network Infomation Center
   - IP-ASN,9814 # Beijing FibrLINK Networks Co.,Ltd.
+  - IP-ASN,136173 # Quanzhou Yuntun Network Technology Co., Ltd.
   - IP-ASN,9809 # SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.
   - IP-ASN,58593 # Shanghai Blue Cloud Technology Co.,Ltd
   - IP-ASN,58461 # China Telecom HangZhou IDC
@@ -71,7 +72,6 @@ payload:
   - IP-ASN,137735 # China Construction Bank
   - IP-ASN,136958 # China Unicom Guangdong IP network
   - IP-ASN,136237 # Shuangyu Communication Technology co.,Ltd.
-  - IP-ASN,136173 # Quanzhou Yuntun Network Technology Co., Ltd.
   - IP-ASN,134774 # CHINANET Guangdong province Shenzhen MAN network
   - IP-ASN,63648 # Beijing Xiaoju Science and Technology Co., Ltd.
   - IP-ASN,63646 # Beijing Xiaoju Science and Technology Co., Ltd.
@@ -142,7 +142,6 @@ payload:
   - IP-ASN,214575 # Curious Universe (Chongqing) Technology Co., Ltd
   - IP-ASN,209294 # Fan Zhang
   - IP-ASN,18241 # State Power Information Net
-  - IP-ASN,18239 # NO.11 Xi San Huan Zhong Road,Beijing
   - IP-ASN,18118 # CITIC Networks Management Co.,Ltd.
   - IP-ASN,17964 # Beijing Dian-Xin-Tong Network Technologies Co., Ltd.
   - IP-ASN,17781 # XINHUA NEWS AGENCY
@@ -189,7 +188,6 @@ payload:
   - IP-ASN,56002 # BEIJING MARINE COMMUNICATION AND NAVIGATION CO.
   - IP-ASN,56000 # HERBALIFE(SHANGHAI)MANAGEMENT CO.,LTD.
   - IP-ASN,55982 # Changhong IT information Products CO.,LTD.
-  - IP-ASN,55958 # Intel China Ltd
   - IP-ASN,55956 # Magna Automotive Technology and Service(Shanghai)Co.,Ltd
   - IP-ASN,4859 # The State Information Center of P.R.China
   - IP-ASN,4611 # CNNIC member
@@ -209,6 +207,7 @@ payload:
   - IP-ASN,23841 # 6/F, No.3 Huatian Road, New Technology Industry Area
   - IP-ASN,209306 # Jin Shaohai
   - IP-ASN,205651 # Hao Qiao
+  - IP-ASN,18239 # NO.11 Xi San Huan Zhong Road,Beijing
   - IP-ASN,17969 # ChongQing Broadcast & TV Transfer Network Co. Ltd
   - IP-ASN,17816 # China Unicom IP network China169 Guangdong province
   - IP-ASN,17799 # asn for Liaoning Provincial Net of CT
@@ -295,6 +294,7 @@ payload:
   - IP-ASN,55991 # APNIC ASN block
   - IP-ASN,55973 # Universal Cinema Services Co., Ltd
   - IP-ASN,55971 # Chinese Academy of Social Sciences
+  - IP-ASN,55958 # Intel China Ltd
   - IP-ASN,4835 # China Telecom (Group)
   - IP-ASN,45113 # Shanxi Datong Coal Group Communication Co., Ltd
   - IP-ASN,45106 # JIANGSU BROADCASTING DATA NETWORK CORPORATION LIMITED
@@ -531,6 +531,7 @@ payload:
   - IP-ASN,211265 # GUI JIANG
   - IP-ASN,211051 # Dazhong Technology Network Studio of Tieling County
   - IP-ASN,210634 # Suzhou Yesong Information Technology Co., Ltd.
+  - IP-ASN,210352 # Yijia Xu
   - IP-ASN,209574 # Xiao Tan
   - IP-ASN,207901 # ZHOU ZEFENG
   - IP-ASN,205610 # Huanjie Zhu
@@ -748,7 +749,6 @@ payload:
   - IP-ASN,210903 # Chengde TsingYao Network Technology Service Co., Ltd.
   - IP-ASN,210738 # Peng Chen
   - IP-ASN,210426 # Liang Zhu
-  - IP-ASN,210352 # Yijia Xu
   - IP-ASN,210176 # Haoyi Xiang
   - IP-ASN,209661 # SIQI WANG
   - IP-ASN,209645 # Jixian Zeng
@@ -767,6 +767,7 @@ payload:
   - IP-ASN,207338 # Zhang Zongyu
   - IP-ASN,207317 # Tiefu Chen
   - IP-ASN,207299 # Zhijiang Zangque Trading Co., Ltd.
+  - IP-ASN,207292 # YANG HAOJING
   - IP-ASN,207091 # Wang Junhao
   - IP-ASN,206843 # Jikai Ren
   - IP-ASN,206729 # Vincent Yang
