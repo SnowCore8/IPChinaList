@@ -26,20 +26,20 @@ payload:
   - IP-ASN,56040 # China Mobile communications corporation
   - IP-ASN,146788 # China Broadcasting Network Co., Ltd
   - IP-ASN,134578 # UNION FU WAH DIGITAL TECHNOLOGY LIMITED
-  - IP-ASN,58879 # Shanghai ruisu network technology co.,LTD
   - IP-ASN,9929 # China Netcom Backbone
   - IP-ASN,137753 # Beijing Jingdong Shangke Information Technology Co. Ltd.
+  - IP-ASN,58879 # Shanghai ruisu network technology co.,LTD
   - IP-ASN,146834 # SiChuan XunYou Network Technologe Limit, co
   - IP-ASN,63631 # Guangdong Cloudbase Technology Co., Ltd.
-  - IP-ASN,140633 # BILIBILI HK LIMITED
   - IP-ASN,45090 # Shenzhen Tencent Computer Systems Company Limited
+  - IP-ASN,140633 # BILIBILI HK LIMITED
   - IP-ASN,37963 # Hangzhou Alibaba Advertising Co.,Ltd.
   - IP-ASN,23724 # IDC, China Telecommunications Corporation
   - IP-ASN,55990 # Huawei Cloud Service data center
   - IP-ASN,24490 # Trans-Eurasia Information Network (TEIN2) - SG
-  - IP-ASN,135426 # ZTE Corporation
   - IP-ASN,55996 # CYPRESS TELECOM (CHINA) LIMITED
   - IP-ASN,4811 # China Telecom (Group)
+  - IP-ASN,135426 # ZTE Corporation
   - IP-ASN,44421 # Yifu Yu
   - IP-ASN,9384 # MIKU NETWORK LIMITED
   - IP-ASN,59045 # Guangzhou navigation information technology co., LTD
@@ -480,7 +480,6 @@ payload:
   - IP-ASN,55786 # 1065-A Zhaojiabang Road
   - IP-ASN,55461 # Beijing Sun Rise Technology CO.,LTD
   - IP-ASN,51928 # SHIZHE XU
-  - IP-ASN,50922 # SHI Li Li
   - IP-ASN,4813 # China Telecom(Group)
   - IP-ASN,45084 # No.98 JianGuo Road,Chaoyang District,Beijing,China
   - IP-ASN,45074 # Data Management Centre National Bureau of Statistics of China
@@ -672,6 +671,7 @@ payload:
   - IP-ASN,58336 # Chengde TsingYao Network Technology Service Co., Ltd.
   - IP-ASN,56004 # Information Center of Shanghai Municipal Education Commission
   - IP-ASN,55641 # Changping District, Beijing
+  - IP-ASN,50922 # SHI Li Li
   - IP-ASN,49904 # Xiaodong Qi
   - IP-ASN,49575 # Dong Ran Yang
   - IP-ASN,48301 # YANG FANG
