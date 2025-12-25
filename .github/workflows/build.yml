@@ -41,15 +41,18 @@ jobs:
 
       - name: Run GET_CN_IP
         run: |
+          cd code || exit 1
           # python scripts/GET_CN_ASN.py
           python scripts/GET_CN_IP.py
 
       - name: Run GET_CN_DOMAIN
         run: |
+          cd code || exit 1
           sh scripts/GET_CN_DOMAIN.sh
 
       - name: Run GET_GFW_DOMAIN
         run: |
+          cd code || exit 1
           sh scripts/GET_GFW_DOMAIN.sh
 
       - name: Git push assets to "release" branch
