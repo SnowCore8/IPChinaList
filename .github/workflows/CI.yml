@@ -25,22 +25,24 @@ jobs:
         run: |
           # python scripts/GET_CN_ASN.py
           python scripts/GET_CN_IP.py
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update China ASN and IP Rules.
 
       - name: Run GET_CN_DOMAIN
         run: |
           sh scripts/GET_CN_DOMAIN.sh
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update CN Domain Rules.
 
       - name: Run GET_GFW_DOMAIN
         run: |
           sh scripts/GET_GFW_DOMAIN.sh
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update GFW Domain Rules.
+
+      - name: Git push assets to "release" branch
+        run: |
+          git init
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b release
+          git add *.txt *.yaml
+          git commit -m "${{ env.RELEASE_NAME }}"
+          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git push -f -u origin release
 
 
