@@ -1,0 +1,46 @@
+name: Update ASN and IP List
+
+on: 
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build: 
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests lxml
+
+      - name: Run GET_CN_IP
+        run: |
+          # python scripts/GET_CN_ASN.py
+          python scripts/GET_CN_IP.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update China ASN and IP Rules.
+
+      - name: Run GET_CN_DOMAIN
+        run: |
+          sh scripts/GET_CN_DOMAIN.sh
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update CN Domain Rules.
+
+      - name: Run GET_GFW_DOMAIN
+        run: |
+          sh scripts/GET_GFW_DOMAIN.sh
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update GFW Domain Rules.
+
+
