@@ -20,8 +20,6 @@ jobs:
     steps:
       - name: Checkout codebase
         uses: actions/checkout@v6
-        with:
-          path: code
 
       - name: Setup Go
         uses: actions/setup-go@v6
@@ -39,20 +37,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests lxml
 
-      - name: Run GET_CN_IP
+      - name: Run GET
         run: |
-          cd code || exit 1
           # python scripts/GET_CN_ASN.py
           python scripts/GET_CN_IP.py
-
-      - name: Run GET_CN_DOMAIN
-        run: |
-          cd code || exit 1
           sh scripts/GET_CN_DOMAIN.sh
-
-      - name: Run GET_GFW_DOMAIN
-        run: |
-          cd code || exit 1
           sh scripts/GET_GFW_DOMAIN.sh
 
       - name: Git push assets to "release" branch
