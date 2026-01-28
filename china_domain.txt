@@ -4501,6 +4501,8 @@
 +.390seo.com
 +.391065.com
 +.3911.com
++.3913.com
++.3917.com
 +.391k.com
 +.392766.net
 +.393.com
@@ -8359,7 +8361,6 @@
 +.86eh.com
 +.86eye.com
 +.86fis.com
-+.86fm.com
 +.86fsp.com
 +.86game.com
 +.86gc.net
@@ -12564,7 +12565,6 @@
 +.aolylcd.com
 +.aomao.com
 +.aomeikeji.com
-+.aomeng.net
 +.aomygodstatic.com
 +.aonaotu.com
 +.aoni.cc
@@ -13386,6 +13386,7 @@
 +.atobo.com
 +.atollbath.com
 +.atom-hitech.com
++.atomgameteam.com
 +.atomgit.com
 +.atomgit.net
 +.atomhike-en.com
@@ -13708,6 +13709,7 @@
 +.awsdns-cn-22.com
 +.awsdns-cn-22.net
 +.awsdns-cn-23.com
++.awsdns-cn-23.net
 +.awsdns-cn-24.biz
 +.awsdns-cn-24.com
 +.awsdns-cn-24.net
@@ -13787,6 +13789,7 @@
 +.awsdns-cn-62.com
 +.awsdns-cn-62.net
 +.awsdns-cn-63.biz
++.awsdns-cn-63.com
 +.awsdns-cn-63.net
 +.awsdns-vip.com
 +.awsok.com
@@ -28569,6 +28572,7 @@
 +.datag.vip
 +.datagear.tech
 +.datagrand.com
++.datahome2026.com
 +.datahubtrack.com
 +.datahuif.com
 +.dataie.com
@@ -30368,7 +30372,6 @@
 +.dktad.com
 +.dktzjt.com
 +.dku51.com
-+.dkweuy.com
 +.dky.cc
 +.dkybpc.com
 +.dkzt.com
@@ -34420,6 +34423,7 @@
 +.exfree.com
 +.exgpykzm.com
 +.exhera.com
++.exhobby.com
 +.exia.xyz
 +.exiaoba.com
 +.exinee.com
@@ -36748,7 +36752,6 @@
 +.frainfo.com
 +.framemaker.com
 +.franceqz.com
-+.franchiseworld.hk
 +.francissoung.com
 +.franckfw.com
 +.francochinois.com
@@ -39723,7 +39726,6 @@
 +.ghzhushou.com
 +.ghzs.com
 +.ghzs666.com
-+.gi0.icu
 +.giabbs.com
 +.giaimg.com
 +.gialen.com
@@ -41922,6 +41924,7 @@
 +.guqiankun.com
 +.guqiu.com
 +.guqu.net
++.guronge.com
 +.gurukeji.com
 +.gurun.cc
 +.gushengwang.com
@@ -49234,7 +49237,6 @@
 +.hozest.com
 +.hozin.com
 +.hozonauto.com
-+.hozzs.hk
 +.hp-marathon.com
 +.hp.com
 +.hp123.com
@@ -52120,7 +52122,6 @@
 +.iaskhot.com
 +.iasmr.cc
 +.iat-auto.com
-+.iauto.wang
 +.iautodaily.com
 +.iautodraw.com
 +.iautopress.com
@@ -67144,6 +67145,7 @@
 +.ma3you.com
 +.ma5000.com
 +.maa.plus
++.maaend.com
 +.maanhui.com
 +.maasdk.com
 +.maavigi.xyz
@@ -72523,7 +72525,6 @@
 +.nihaowang.com
 +.nihil.cc
 +.nihonngo.site
-+.nihuwo.asia
 +.niiam.com
 +.niiceda.com
 +.niiddm.com
@@ -75435,7 +75436,6 @@
 +.oushisheng.com
 +.oushivoyages.com
 +.ousweixin.com
-+.outerinfo.com
 +.outes.com
 +.outfit7.com
 +.outfit7.net
@@ -76260,6 +76260,7 @@
 +.peiyouwang.com
 +.peiyue.com
 +.peizi.com
++.pejdw.com
 +.pejxjy.com
 +.pekhongyuan.com
 +.peksung.com
@@ -80609,7 +80610,6 @@
 +.qwsy.com
 +.qwvv.com
 +.qwwz.com
-+.qwxcs.com
 +.qx-era.com
 +.qx-kj.com
 +.qx-semi.com
@@ -100664,6 +100664,7 @@
 +.wenxiaozhan.com
 +.wenxiaozhan.net
 +.wenxin-ge.com
++.wenxinapp.com
 +.wenxingonline.com
 +.wenxiql.com
 +.wenxiu.com
@@ -115675,7 +115676,6 @@
 +.zhongzhoulianhe.com
 +.zhongzhouwater.com
 +.zhongzhuang.com
-+.zhongzicili.cc
 +.zhongzilu.com
 +.zhonshian.com
 +.zhou.icu
@@ -116260,7 +116260,6 @@
 +.ziweicn.com
 +.ziweifu.com
 +.ziweihuan.com
-+.ziweuu.com
 +.ziwoyou.net
 +.ziwufang.com
 +.ziwuyunjiao.com
