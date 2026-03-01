@@ -4368,6 +4368,7 @@
 +.365fanyi.com
 +.365gangqin.com
 +.365gcd.net
++.365gongchang.com
 +.365good.cc
 +.365heart.com
 +.365hele.com
@@ -10657,6 +10658,8 @@
 +.adsame.com
 +.adscover.com
 +.adsctl.com
++.adseye.com
++.adseyeservice.com
 +.adsfancy.com
 +.adshonor.net
 +.adshuju.com
@@ -11141,6 +11144,7 @@
 +.ai-thinker.com
 +.ai-vip.net
 +.ai-ways.com
++.ai-yuanjing.com
 +.ai.cc
 +.ai012.com
 +.ai0513.com
@@ -15778,7 +15782,6 @@
 +.beegoedu.com
 +.beejoygames.com
 +.beelink.com
-+.beencounter.com
 +.beep365.com
 +.beeplay123.com
 +.beeshow.tv
@@ -16463,6 +16466,7 @@
 +.bianxian.com
 +.bianxianmao.com
 +.bianxianwu.com
++.bianxiazai.com
 +.bianyifang.com
 +.bianyuandaigou.com
 +.bianzhia.com
@@ -29147,6 +29151,7 @@
 +.datangyouxie.com
 +.datangzww.com
 +.dataodu.com
++.dataojo.com
 +.dataoke.com
 +.datarelab.com
 +.datarj.com
@@ -42516,7 +42521,6 @@
 +.guomiaokeji.com
 +.guomin999.com
 +.guominpension.com
-+.guominziben.com
 +.guomob.com
 +.guomu.com
 +.guoocang.com
@@ -46447,6 +46451,7 @@
 +.happy-vpn.com
 +.happy88.com
 +.happycodeboy.com
++.happycoding.online
 +.happydino.com
 +.happyelements.com
 +.happyeo.com
@@ -65487,7 +65492,6 @@
 +.linuopv.com
 +.linuoshi.com
 +.linuottc.com
-+.linuozhiyao.xyz
 +.linux-code.com
 +.linux-ren.org
 +.linux.zone
@@ -67021,7 +67025,6 @@
 +.lunhuaxiei.com
 +.lunkuokeji.com
 +.lunlunapp.com
-+.lunt.cx
 +.lunwengo.net
 +.lunwenlib.com
 +.lunwenstudy.com
@@ -72165,7 +72168,6 @@
 +.n8soft.com
 +.n9z.net
 +.na.ci
-+.na7.cc
 +.naaln.com
 +.nabluemedia.com
 +.naboyi.com
@@ -76281,7 +76283,6 @@
 +.ove3bi5rpn.com
 +.ovear.info
 +.ovellpump.com
-+.overlook.fun
 +.oversea-ks-cdn.com
 +.overseasops.com
 +.overseaspharm.com
@@ -77808,6 +77809,7 @@
 +.play-cdn14.com
 +.play-cdn16.com
 +.play-cdn19.com
++.play-cdn2.com
 +.play-cdn20.com
 +.play-cdn7.com
 +.play.craft.moe
@@ -79077,7 +79079,6 @@
 +.qdccb.com
 +.qdccdl.com
 +.qdcloudsolution.com
-+.qdcode.com
 +.qdcu.com
 +.qdcykg.com
 +.qdcz.com
@@ -101434,6 +101435,7 @@
 +.wellselectronic.com
 +.wellsepoxy.com
 +.wellsoon.com
++.wellswam.com
 +.welltonhotel.com
 +.welltrend-edu.com
 +.wellwhales.com
@@ -107127,7 +107129,6 @@
 +.xjwyglw.com
 +.xjx11221ts.com
 +.xjxa.com
-+.xjxbdh.xyz
 +.xjxbmy.com
 +.xjxbx.com
 +.xjxdf.com
@@ -108617,7 +108618,6 @@
 +.xxahsk.com
 +.xxaks01080sspao.xyz
 +.xxaks01081sspao.xyz
-+.xxaks01091sspao.xyz
 +.xxart.net
 +.xxbiquge.com
 +.xxbmm.com
@@ -113216,7 +113216,6 @@
 +.yukeinfo.com
 +.yukeweb.com
 +.yukexinchem.com
-+.yukhj.com
 +.yukicat.net
 +.yukicomic.com
 +.yukiovo.com
@@ -115963,6 +115962,7 @@
 +.zhi10.com
 +.zhi3.net
 +.zhiaimusic.com
++.zhiangit.com
 +.zhiangroup.com
 +.zhiannet.com
 +.zhiantec.com
@@ -119503,6 +119503,7 @@
 +.zzszbsw.com
 +.zzszxyy.com
 +.zzt9.com
++.zztaoning.com
 +.zzteacher.com
 +.zztender.com
 +.zztfly.com
