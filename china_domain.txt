@@ -185,6 +185,7 @@
 +.010huashi.com
 +.010jianzhan.com
 +.010lf.com
++.010p.cc
 +.010shangpu.com
 +.010time.com
 +.010xiongdi.com
@@ -931,6 +932,7 @@
 +.0762uu.com
 +.0763f.com
 +.076650.com
++.07666.com
 +.0768000.com
 +.0769auto.com
 +.0769che.com
@@ -14175,8 +14177,6 @@
 +.as-hitech.com
 +.as.mr
 +.as01271kkp.xyz
-+.as01280kkp.xyz
-+.as01281kkp.xyz
 +.as02010kkp.xyz
 +.as16.com
 +.as3f.com
@@ -14744,6 +14744,7 @@
 +.awsdns-cn-14.com
 +.awsdns-cn-15.net
 +.awsdns-cn-16.biz
++.awsdns-cn-16.net
 +.awsdns-cn-17.biz
 +.awsdns-cn-17.com
 +.awsdns-cn-17.net
@@ -14772,6 +14773,7 @@
 +.awsdns-cn-28.net
 +.awsdns-cn-29.biz
 +.awsdns-cn-31.net
++.awsdns-cn-33.biz
 +.awsdns-cn-33.net
 +.awsdns-cn-34.com
 +.awsdns-cn-34.net
@@ -34113,6 +34115,7 @@
 +.ebama.net
 +.ebancom.com
 +.ebangchina.com
++.ebank96518.com
 +.ebanma.com
 +.ebanshu.net
 +.ebaodai.com
@@ -34525,7 +34528,6 @@
 +.eduzhai.net
 +.eduzhixin.com
 +.eduzs.net
-+.edvxgqx.com
 +.edwiv.com
 +.edxmy.cc
 +.ee-nav.com
@@ -37390,6 +37392,7 @@
 +.fhtj.com
 +.fhtlw.com
 +.fhtre.com
++.fhvalley.com
 +.fhwlgs.com
 +.fhwzx.com
 +.fhycedu.com
@@ -38349,6 +38352,7 @@
 +.freekaoyan.com
 +.freelycode.com
 +.freelynb.com
++.freelynet.cloud
 +.freelynet.com
 +.freemancn.com
 +.freemindworld.com
@@ -42602,7 +42606,6 @@
 +.grender.com
 +.greplay.com
 +.grescw.com
-+.gretaith.com
 +.gretf.com
 +.greyli.com
 +.greywolfcdn.net
@@ -53794,6 +53797,7 @@
 +.ibczy.com
 +.ibdxigualive.com
 +.ibdxiguavod.com
++.ibee360.com
 +.ibeidiao.com
 +.ibeifeng.com
 +.ibeiig.com
@@ -70397,6 +70401,7 @@
 +.mengyou.org
 +.mengzhou.com
 +.mengzhuangxiu.com
++.mengziyuan.com
 +.mengzuji.com
 +.menhu.io
 +.menksoft.com
@@ -72998,6 +73003,7 @@
 +.mysupa.com
 +.mysuperdns.com
 +.mysvw.com
++.mysybt.com
 +.myt126.com
 +.mytaizhou.net
 +.mytanwan.com
@@ -75777,6 +75783,7 @@
 +.nswscp.com
 +.nswyun.com
 +.nswzs.com
++.nsxdns.com
 +.nsxww.com
 +.nsydt.com
 +.nsyhwakrkq2.com
@@ -76111,7 +76118,6 @@
 +.o-star.cc
 +.o0-2.com
 +.o014148q7p.com
-+.o02220aokk.com
 +.o02231aokk.com
 +.o02251aokk.com
 +.o02260aokk.com
@@ -79745,7 +79751,6 @@
 +.pv001.net
 +.pv138.com
 +.pv265.com
-+.pv4b.com
 +.pvacegurmbz3e.com
 +.pvc-diban.net
 +.pvc123.com
@@ -80529,6 +80534,7 @@
 +.qiankungroup.com
 +.qiankunshopping.com
 +.qiankunxin.com
++.qianlai778.com
 +.qianlaiye.com
 +.qianlht.com
 +.qianliao.net
@@ -85415,6 +85421,7 @@
 +.scgxhq.com
 +.scgxlc.com
 +.scgyjt.com
++.scgzyun.com
 +.sch-szu.com
 +.schbrain.com
 +.schbrilliant.com
@@ -85510,6 +85517,7 @@
 +.scjz-led.com
 +.scjzjyjc.com
 +.scjzy.net
++.sckje.com
 +.sckrskj.com
 +.sckxjd.com
 +.scl-cn.com
@@ -86152,6 +86160,7 @@
 +.sdxjnrqjt.com
 +.sdxjpc.com
 +.sdxl.com
++.sdxli.win
 +.sdxlkjgf.com
 +.sdxnetcafe.com
 +.sdxsgas.com
@@ -88235,6 +88244,7 @@
 +.shlhbxg.com
 +.shliafvzc.com
 +.shliangshi.com
++.shlianlu.com
 +.shlingang.com
 +.shlinjiang.com
 +.shlitc.com
@@ -98520,6 +98530,7 @@
 +.tygameworld.com
 +.tygckj.com
 +.tyh120.com
++.tyhjrbl.com
 +.tyhjzx.com
 +.tyi365.com
 +.tyihome.com
@@ -99180,7 +99191,6 @@
 +.una-ad.com
 +.una-campaign.com
 +.unachina.org
-+.unafeed.com
 +.unaming.info
 +.unaming.net
 +.unbank.info
@@ -100291,6 +100301,7 @@
 +.videojj.com
 +.videomind.cloud
 +.videomind.net
++.videoplus.cc
 +.videotomp3.site
 +.videougc.com
 +.videoxiaoyouxi.com
@@ -107575,6 +107586,7 @@
 +.xinguodu.com
 +.xingvps.com
 +.xingwajiang.com
++.xingwan001.com
 +.xingxing.com
 +.xingxingbao.com
 +.xingxingjizhang.com
@@ -114404,6 +114416,7 @@
 +.yujpa.com
 +.yujunjie.com
 +.yujunren.com
++.yukaidi.com
 +.yukaiprecision.com
 +.yukeinfo.com
 +.yukeweb.com
@@ -114531,6 +114544,7 @@
 +.yuncloudauth.com
 +.yuncname.com
 +.yuncode.net
++.yuncuntu.com
 +.yund.tech
 +.yunda56.com
 +.yundaex.com
@@ -115067,7 +115081,6 @@
 +.ywint.net
 +.ywit.xyz
 +.ywjinfabag.com
-+.ywjsgc.com
 +.ywkefu.com
 +.ywky.org
 +.ywlandport.com
@@ -115720,6 +115733,7 @@
 +.zampdsp.com
 +.zamplink.net
 +.zamplus.com
++.zan-live.com
 +.zanao.com
 +.zanba.com
 +.zanbai.com
@@ -117995,7 +118009,6 @@
 +.zhuchuang.club
 +.zhudai.com
 +.zhudianquan.com
-+.zhudiaosz.com
 +.zhufaner.com
 +.zhufangdianping.com
 +.zhufengpeixun.com
