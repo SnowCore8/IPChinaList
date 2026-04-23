@@ -1459,6 +1459,7 @@
 +.100ask.net
 +.100ask.org
 +.100audio.com
++.100baisui.com
 +.100bt.com
 +.100chou.com
 +.100chui.com
@@ -13476,6 +13477,7 @@
 +.aniccw.net
 +.aniceapp.com
 +.anicoga.com
++.anictdns.click
 +.anictdns.store
 +.anijue.com
 +.anileyehospital.org
@@ -14002,7 +14004,6 @@
 +.apizza.net
 +.apjingsi.com
 +.apk02061oo.xyz
-+.apk02070oo.xyz
 +.apk3.com
 +.apk4399.com
 +.apk8.com
@@ -14112,7 +14113,6 @@
 +.apple17.club
 +.apple4.us
 +.apple523.club
-+.apple88.net
 +.apple886.com
 +.appleadstech.com
 +.applebl.com
@@ -15745,10 +15745,10 @@
 +.baisiterzh.com
 +.baisiweiting.com
 +.baisu.cc
++.baisuifc.shop
 +.baisuizhixiang.com
 +.baitahe.net
 +.baitaihuge.com
-+.baitaiz.com
 +.baitanheichang.com
 +.baitaoidc.com
 +.baitdu.com
@@ -15898,7 +15898,6 @@
 +.bandianli.com
 +.bandoristation.com
 +.bandvr.com
-+.banfd.com
 +.banfubbs.com
 +.bangandi.com
 +.bangbang.com
@@ -23112,7 +23111,6 @@
 +.chianbaohan.com
 +.chibanting.com
 +.chichuang.com
-+.chicken18.com
 +.chickfrp.com
 +.chiconysquare.com
 +.chicopharm.com
@@ -26852,6 +26850,7 @@
 +.cobetterfiltration.com
 +.cobioer.com
 +.coboak.com
++.cobtecinternational.com
 +.cobuy.net
 +.cobvgroup.com
 +.cocas.cc
@@ -33232,7 +33231,6 @@
 +.drvi.net
 +.drvsky.com
 +.drxexpo.com
-+.drxrc.com
 +.ds-360.com
 +.ds-lg.com
 +.ds028.com
@@ -35566,6 +35564,7 @@
 +.eo-edgefunctions7.com
 +.eo-edgefunctions8.com
 +.eo-edgefunctions9.com
++.eo-ns.com
 +.eo-preview.com
 +.eo-shieldspace.com
 +.eo-vod.com
@@ -35618,6 +35617,7 @@
 +.ep-zl.com
 +.ep12.com
 +.ep365.com
++.ep8u.com
 +.epaas.net
 +.epaiclub.com
 +.epailive.com
@@ -37423,6 +37423,7 @@
 +.feiwentianxia.com
 +.feixian.cc
 +.feixiansoft.com
++.feixiaodata.com
 +.feixiaoqiu.com
 +.feixiong.tv
 +.feixue666.com
@@ -53259,6 +53260,7 @@
 +.hxyxt.com
 +.hxyyw.com
 +.hxz.ink
++.hxzf9.com
 +.hxzlsgs.com
 +.hy-china.com
 +.hy-express.com
@@ -53442,7 +53444,6 @@
 +.hyqdxcl.com
 +.hyrainbow.com
 +.hysbz.com
-+.hysdknb.com
 +.hysec.com
 +.hyseim.com
 +.hyshengnian.org
@@ -53465,7 +53466,6 @@
 +.hyun.cc
 +.hyundai-chhm.com
 +.hyundai-hmtc.com
-+.hyunke.com
 +.hyuuhit.com
 +.hyuyy.com
 +.hywater.net
@@ -56376,7 +56376,6 @@
 +.iryoucai.com
 +.is-programmer.com
 +.is02041qqp.xyz
-+.is02050qqp.xyz
 +.is36.com
 +.is404.com
 +.is686.com
@@ -57026,7 +57025,6 @@
 +.iyb.tm
 +.iybtv.com
 +.iycsky.com
-+.iycwl.com
 +.iydsj.com
 +.iydu.net
 +.iyeeda.com
@@ -58674,7 +58672,6 @@
 +.jilinshuiwu.com
 +.jilinxiangyun.com
 +.jiliuwang.net
-+.jiliw.com
 +.jiliyun.com
 +.jilongsw.com
 +.jilu.info
@@ -59116,6 +59113,7 @@
 +.jinshanglawfirm.com
 +.jinshangroup.net
 +.jinshangtechnology.com
++.jinshanip.cc
 +.jinshanju.com
 +.jinshanmz.com
 +.jinshasitemuseum.com
@@ -61533,7 +61531,6 @@
 +.juzijiudian.com
 +.juzikong.com
 +.juzilicai.com
-+.juzilm.com
 +.juzimi.cc
 +.juzioo.com
 +.juziseo.com
@@ -64069,6 +64066,7 @@
 +.kuailetongyao.com
 +.kuailexs.com
 +.kuailexue.com
++.kuaileyouxuan.com
 +.kuailezu.com
 +.kuailiyu.com
 +.kuailiyu.net
@@ -67447,7 +67445,6 @@
 +.llssite.com
 +.llsttapp.com
 +.llsun.com
-+.lltckjyxgs.com
 +.lltoken.com
 +.lltskb.com
 +.llumar-cn.com
@@ -67528,7 +67525,6 @@
 +.lneab.com
 +.lnemci.com
 +.lnenergy.net
-+.lnenz.com
 +.lnes.net
 +.lnest.com
 +.lnfdcxh.org
@@ -76596,7 +76592,6 @@
 +.o014148q7p.com
 +.o02231aokk.com
 +.o02251aokk.com
-+.o02260aokk.com
 +.o03011aokk.com
 +.o03080aokk.com
 +.o0310o.com
@@ -83752,6 +83747,9 @@
 +.redmart.com
 +.redmou.com
 +.rednetdns.com
++.rednote.com
++.rednote.life
++.rednotecdn.com
 +.redocn.com
 +.redodopower.com
 +.redoop.com
@@ -84334,6 +84332,7 @@
 +.rnhospital.com
 +.rnhy.net
 +.rnmachine.com
++.rnote.com
 +.ro50.com
 +.ro8qwpaikd4kx.com
 +.road-group.com
@@ -85635,7 +85634,6 @@
 +.savilehotelgroup.com
 +.savokiss.com
 +.savouer.com
-+.sawadeca.com
 +.sawenow.com
 +.sawuatsurgical.com
 +.saxydc.com
@@ -98888,6 +98886,7 @@
 +.twmsuf.com
 +.twoarmy.com
 +.twoear.com
++.twowinit.com
 +.twplink.xyz
 +.tws.com
 +.twsapp.com
@@ -100215,7 +100214,6 @@
 +.uu898.com
 +.uuaa.net
 +.uuaoz.com
-+.uuboos.com
 +.uucall.com
 +.uucc.cc
 +.uucin.com
@@ -105522,7 +105520,6 @@
 +.wuuxiang.com
 +.wuwangnongseed.com
 +.wuweijob.com
-+.wuweiqx.com
 +.wuweiyou.com
 +.wuwenjun.net
 +.wuwuju.com
@@ -109104,7 +109101,6 @@
 +.xmkanshu.com
 +.xml-journal.net
 +.xmldz4.com
-+.xmlheads.com
 +.xmlhifi.com
 +.xmlulub.com
 +.xmlvbarcode.com
@@ -109795,7 +109791,6 @@
 +.xt3yy.com
 +.xt700.com
 +.xt7p.com
-+.xt918.com
 +.xtadmins.com
 +.xtaike.com
 +.xtal.cc
@@ -111455,6 +111450,7 @@
 +.ycbright.com
 +.ycbroker.com
 +.ycbus.com
++.ycbus.net
 +.ycc.ink
 +.yccdl.net
 +.yccdn.com
@@ -112361,6 +112357,7 @@
 +.yihekf.com
 +.yihengyt.com
 +.yiherubber.com
++.yihexingyao.com
 +.yihong001.com
 +.yihong1718.com
 +.yihtc.com
@@ -112477,6 +112474,7 @@
 +.yilongnews.com
 +.yilongweiguo.com
 +.yilu365.com
++.yilufawh.com
 +.yilule.com
 +.yiluzouhao.com
 +.yilvcheng.com
@@ -118841,7 +118839,6 @@
 +.zhxww.net
 +.zhxwzx.com
 +.zhxy1z.com
-+.zhy333.com
 +.zhyccw.com
 +.zhycn.com
 +.zhyczx.com
