@@ -13845,7 +13845,6 @@
 +.assets.analog.com
 +.assets.djicdn.com
 +.assets.razerzone.com
-+.assets.uxengine.net
 +.assets2.razerzone.com
 +.assrt.net
 +.assyrb.com
@@ -24586,7 +24585,6 @@
 +.cmreltd.com
 +.cmri.cc
 +.cmrid.com
-+.cms.csw.lenovo.com
 +.cms1924.org
 +.cms258.com
 +.cmschina.com
@@ -52096,7 +52094,6 @@
 +.icbkfs.com
 +.icbkus.com
 +.icbuy.com
-+.icc.lenovo.com
 +.icc.link
 +.iccchina.com
 +.iccessh.org
@@ -62682,7 +62679,6 @@
 +.lcofjp.com
 +.lcofo.com
 +.lcouncil.com
-+.lcp.gtm.lenovo.com
 +.lcp.lenovo.com
 +.lcpdu.com
 +.lcpumps.com
@@ -62765,7 +62761,6 @@
 +.ldzcgs.com
 +.ldzxyy.com
 +.le-feng.com
-+.le-reporting.lenovo.com
 +.le-wan.com
 +.le.com
 +.le365.cc
@@ -63062,7 +63057,6 @@
 +.len.ink
 +.lenauth.com
 +.lenbenelectric.com
-+.lenbpreturns.lenovo.com
 +.lenciel.com
 +.lendy520.com
 +.lenfocus.com
@@ -66701,6 +66695,7 @@
 +.maiyadi.com
 +.maiyanju.com
 +.maiyaole.com
++.maiyatian.com
 +.maiyayk.com
 +.maiyuesoft.com
 +.maiyuren.com
@@ -75206,7 +75201,6 @@
 +.pcsfc.com
 +.pcshou.com
 +.pcsjsm.com
-+.pcsupport.lenovo.com
 +.pct86.com
 +.pctutu.net
 +.pctvx.com
@@ -81726,7 +81720,6 @@
 +.safetyvod.com
 +.safround.com
 +.sagepub.com
-+.sagetrc.com
 +.sagewc-exp.com
 +.sagigame.net
 +.sagsaas.com
@@ -84401,7 +84394,6 @@
 +.shendatong.com
 +.shendiaoqzj.com
 +.shendoow.com
-+.shendu.cc
 +.shendu.com
 +.shendu123.com
 +.shendugho.com
@@ -86965,7 +86957,6 @@
 +.smartssc.lenovo.com
 +.smartsteps.com
 +.smartstudy.com
-+.smartsupport.lenovo.com
 +.smarttaixing.com
 +.smartwebee.com
 +.smartworkplace.lenovo.com
@@ -94771,7 +94762,6 @@
 +.tv20806.com
 +.tv373.com
 +.tvandnet.com
-+.tvants.com
 +.tvapk.com
 +.tvapk.net
 +.tvbbj.com
@@ -100150,7 +100140,6 @@
 +.wk2.com
 +.wk515.com
 +.wk78.com
-+.wka8.com
 +.wkai.cc
 +.wkandian.com
 +.wkanx.com
@@ -108093,7 +108082,6 @@
 +.yinsha.com
 +.yinshenxia.com
 +.yinshua.cc
-+.yinshuahangyewang.mobi
 +.yinshuiyu.com
 +.yinsuwl.com
 +.yintai.com
