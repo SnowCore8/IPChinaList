@@ -12858,6 +12858,7 @@
 +.anrlm.com
 +.anruan.com
 +.anruichina.com
++.anruidm.com
 +.ansendun.com
 +.anshahouse.com
 +.anshibuff.com
@@ -14987,6 +14988,7 @@
 +.bajintech.com
 +.baka.im
 +.baka.plus
++.bakapiano.com
 +.bakaxl.com
 +.bakbitionb.com
 +.bakclass.com
@@ -41144,6 +41146,7 @@
 +.gsgs10086.com
 +.gsgundam.com
 +.gshangju.com
++.gshdw.cyou
 +.gshis.net
 +.gshmhotels.com
 +.gshopper.com
@@ -65835,6 +65838,7 @@
 +.lz-veoliawater.com
 +.lz12328.com
 +.lz310.com
++.lz5.com
 +.lz520.net
 +.lzabcd.com
 +.lzahzn.com
@@ -66378,6 +66382,7 @@
 +.maizuo.com
 +.majia99.com
 +.majiamen.com
++.majianbo.com
 +.majiang520.com
 +.majilive.com
 +.majorbio.com
@@ -111214,6 +111219,7 @@
 +.zdhaitao.net
 +.zdhuoyunbao.com
 +.zdhyibiao.com
++.zdhyyy.com
 +.zdiao.com
 +.zdic.net
 +.zdjt.com
