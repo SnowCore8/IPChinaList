@@ -2775,7 +2775,6 @@
 +.1d9z.com
 +.1dao99.com
 +.1date1cake.com
-+.1dcbzuv.com
 +.1dcdp4.com
 +.1de6de84b1017.beer
 +.1der-ad.com
@@ -48802,6 +48801,7 @@
 +.hpcang.com
 +.hpccake.com
 +.hpccube.com
++.hpconnected.com
 +.hpculturegroup.com
 +.hpearx.com
 +.hpepea.com
@@ -52506,6 +52506,7 @@
 +.ihtmlcss.com
 +.ihuaben.com
 +.ihuan.me
++.ihuandu.com
 +.ihuang.org
 +.ihuanling.com
 +.ihuanque.com
@@ -64272,7 +64273,6 @@
 +.llzxedu.net
 +.lm-sa.csc.edu.cn.akadns99.net
 +.lm-studyinchina.csc.edu.cn.akadns99.net
-+.lm-www.csc.edu.cn.akadns99.net
 +.lm263.com
 +.lm335.com
 +.lm9999.com
@@ -89321,6 +89321,7 @@
 +.szcwdz.com
 +.szcy-fintech.com
 +.szcy99.com
++.szcyqg.com
 +.szczjy.com
 +.szczkjgs.com
 +.szdaily.com
