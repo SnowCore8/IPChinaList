@@ -1503,7 +1503,6 @@
 +.10urzr3jk.icu
 +.10vps.com
 +.10yan.com
-+.11.xn--czrs0t
 +.11.xn--vhquv
 +.110.com
 +.11000011.com
@@ -4286,6 +4285,7 @@
 +.363u.com
 +.364000.com
 +.365.com
++.365.hk
 +.36500.com
 +.36500.net
 +.365128.com
@@ -14669,7 +14669,6 @@
 +.baidu.com
 +.baidu.com.hk
 +.baidu.hk
-+.baidu.jp
 +.baidu.mobi
 +.baidu120.cc
 +.baidu123.com
@@ -18611,6 +18610,7 @@
 +.buffaloex.com
 +.buffst.com
 +.bufpay.com
++.bugaicuoguo.com
 +.bughz.com
 +.bugku.com
 +.bugnull.com
@@ -24500,7 +24500,6 @@
 +.cn-5.com
 +.cn-ab.com
 +.cn-aci.com
-+.cn-api-test.lenovo.com
 +.cn-argo-sdc200.blurdev.com
 +.cn-bldc.com
 +.cn-bowei.com
@@ -27425,7 +27424,6 @@
 +.ctongonline.com
 +.ctoutiao.com
 +.ctovcdn.com
-+.ctr-media.info
 +.ctrcw.net
 +.ctrender.com
 +.ctrip-ttd.hk
@@ -28758,6 +28756,7 @@
 +.datag.vip
 +.datagear.tech
 +.datagrand.com
++.dataheiheihome.com
 +.datahome2026.com
 +.datahubtrack.com
 +.datahuif.com
@@ -35770,6 +35769,7 @@
 +.fengniao.com
 +.fengniaohd.com
 +.fengniaojianzhan.com
++.fengniaourl.com
 +.fengone.com
 +.fengpintech.com
 +.fengread.com
@@ -37982,6 +37982,7 @@
 +.ganboo.com
 +.gandi.net
 +.ganduee.com
++.ganfanniu.com
 +.gangbao365.com
 +.gangbogroup.com
 +.gangduotech.com
@@ -38530,6 +38531,7 @@
 +.gdjdxh.com
 +.gdjdxy.com
 +.gdjhh.com
++.gdjhtx.com
 +.gdjiabao.com
 +.gdjinge.com
 +.gdjinguan.net
@@ -46074,7 +46076,6 @@
 +.hcqixinhb.com
 +.hcqxbj.com
 +.hcrlm.com
-+.hcs.globalsign.com
 +.hcschengtou.com
 +.hcsd123.com
 +.hcsdhgjzx.com
@@ -50202,6 +50203,7 @@
 +.huluboshi.com
 +.huludz.com
 +.huluer.com
++.huluer.vip
 +.huluip.com
 +.huluip.tech
 +.huluo.com
@@ -53160,6 +53162,7 @@
 +.initaf.com
 +.initah.com
 +.initaj.com
++.initak.com
 +.initbb.com
 +.initcc.com
 +.initdd.com
@@ -63833,6 +63836,7 @@
 +.listenvod.com
 +.listno1.com
 +.listong.com
++.lisuantech.com
 +.lisure.com
 +.lisz.me
 +.litangkj.com
@@ -64249,8 +64253,6 @@
 +.llyyx.com
 +.llzg.com
 +.llzxedu.net
-+.lm-sa.csc.edu.cn.akadns99.net
-+.lm-studyinchina.csc.edu.cn.akadns99.net
 +.lm263.com
 +.lm335.com
 +.lm9999.com
@@ -68644,7 +68646,6 @@
 +.mnpc.net
 +.mnpds.com
 +.mnwww.com
-+.mnxhj.com
 +.mo-co.com
 +.mo298.com
 +.mo2g.com
@@ -68982,6 +68983,7 @@
 +.moonbio.com
 +.moonbitlang.com
 +.mooncell.wiki
++.moondroplab.tech
 +.moonfly.net
 +.moongood.com
 +.moonjer.com
@@ -75151,7 +75153,6 @@
 +.piaodian.net
 +.piaododo.com
 +.piaodown.com
-+.piaogj.com
 +.piaogroup.com
 +.piaohomeinn.com
 +.piaohua.com
@@ -88063,7 +88064,6 @@
 +.sukimon.me
 +.sukiu.net
 +.sukkaw.com
-+.sukneyu.com
 +.sukoshi.xyz
 +.sukoutu.com
 +.sukvm.com
@@ -92738,6 +92738,7 @@
 +.todonow.com
 +.todoyi.com
 +.todreamer.com
++.todust.cc
 +.toec-gdgs.com
 +.toec-iot.com
 +.toec.com
@@ -94075,6 +94076,7 @@
 +.tutechanhb.com
 +.tutengcloud.com
 +.tutengdai.com
++.tutu-caonima.com
 +.tutuapp.com
 +.tutucloud.com
 +.tutudati.com
@@ -97247,6 +97249,7 @@
 +.wankacn.net
 +.wankamall.com
 +.wanke123.com
++.wankeji.com
 +.wanku.com
 +.wanlaiwang.com
 +.wanli.com
@@ -106859,6 +106862,7 @@
 +.yichezhi.com
 +.yichi.tech
 +.yichip.com
++.yichkp.com
 +.yichuan.net
 +.yichuntv.com
 +.yichuyifan.com
@@ -115414,7 +115418,6 @@
 +.zzhaoz.com
 +.zzhbgs.com
 +.zzhfkm.com
-+.zzhszj.com
 +.zzhybz.com
 +.zzicpa.com
 +.zzidc.com
