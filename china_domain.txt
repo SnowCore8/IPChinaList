@@ -51867,6 +51867,7 @@
 +.ichinaenergy.com
 +.ichong123.com
 +.ichongdao.com
++.ichongqing.info
 +.ichtcm.com
 +.ichuanglan.com
 +.ichuangye.com
@@ -60531,6 +60532,7 @@
 +.knewbi.com
 +.knewone.com
 +.knewsmart.com
++.knfastpic.com
 +.knfeco.com
 +.knight-un.com
 +.knightedge.com
@@ -78090,6 +78092,7 @@
 +.qnqcdn.net
 +.qnsdk.com
 +.qnssl.com
++.qnvip.com
 +.qnvipmall.com
 +.qnvipxd.com
 +.qnydns.com
