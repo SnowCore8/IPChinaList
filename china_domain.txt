@@ -32959,6 +32959,7 @@
 +.edgeonevod1.com
 +.edgeonevod1.net
 +.edgep.net
++.edgescloud.cloud
 +.edgesrv.com
 +.edgetls.xyz
 +.edhic.com
@@ -44386,6 +44387,7 @@
 +.habbygames.com
 +.habctv.com
 +.habwjc.com
++.hacg.site
 +.hach-hanna.com
 +.hachicnc.com
 +.hacjkq.com
@@ -67946,6 +67948,7 @@
 +.mingpian.net
 +.mingqi.co
 +.mingqu.xyz
++.mingque.com
 +.mingr.com
 +.mingren888.com
 +.mingrsoft.com
@@ -72890,6 +72893,7 @@
 +.oemsoc.download.prss.microsoft.com
 +.oemsocuat.download.prss.microsoft.com
 +.oemssl.cn.cdn.cloudflare.net
++.oemxitong.com
 +.oeob.net
 +.oepamvxq.com
 +.oepkgs.net
@@ -74569,6 +74573,7 @@
 +.peekpipai.com
 +.peento.com
 +.peepic.com
++.peer.as
 +.peerkennel.com
 +.pegbiocq.com
 +.peidibrand.com
@@ -75199,7 +75204,6 @@
 +.pj62049.com
 +.pj73.com
 +.pjbest.com
-+.pjcn.org
 +.pjf.name
 +.pjgear.com
 +.pjgjg.com
@@ -79211,6 +79215,7 @@
 +.rationalwh.com
 +.ratogh.com
 +.ratoo.net
++.rauqa.net
 +.rauto.com
 +.ravenna0943.xyz
 +.raverstern.site
@@ -88676,7 +88681,6 @@
 +.syhzdj.net
 +.syhzx.com
 +.syhzzf.com
-+.syiae.com
 +.syiptv.com
 +.syitgz.com
 +.syjcly.com
@@ -88746,6 +88750,7 @@
 +.syrc.org
 +.syrcb.net
 +.syrczpw.com
++.syrds.pro
 +.syreads.com
 +.syrecovery.com
 +.syrhkj.com
@@ -95751,6 +95756,7 @@
 +.videougc.com
 +.videoxiaoyouxi.com
 +.videoyx.com
++.vidhash.net
 +.vidmate.mobi
 +.vidmate.net
 +.vidmatefilm.org
@@ -103813,6 +103819,7 @@
 +.xn--gmq64zxnt8llcrb.xn--6qq986b3xl
 +.xn--gmq65d2wksq4b0bt.xn--czr694b
 +.xn--gmqr9gdtrhuf56g.com
++.xn--h5qy75o.vip
 +.xn--h6qyr29eh1buxk3e37mxzkp28b2b8c.xn--3ds443g
 +.xn--husx9zj2eepau0se83d.com
 +.xn--hutn94av9amzg.net
@@ -104853,7 +104860,6 @@
 +.xxxfeng.com
 +.xxxhhh.com
 +.xxxmeng.com
-+.xxxx68xxxx.com
 +.xxxx88xxxx.com
 +.xxxx92xxxx.com
 +.xxxx96xxxx.com
