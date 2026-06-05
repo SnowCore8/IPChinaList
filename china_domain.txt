@@ -49761,6 +49761,7 @@
 +.huihua365.com
 +.huihua8.com
 +.huihuaren.com
++.huihui.moe
 +.huii.cc
 +.huiidea.com
 +.huiji.wiki
@@ -51826,6 +51827,7 @@
 +.idcbdy.com
 +.idcbest.com
 +.idcbest.hk
++.idccdns.com
 +.idccenter.net
 +.idccom.net
 +.idccun.com
@@ -66552,6 +66554,7 @@
 +.mbg06290pg.com
 +.mbg06301pg.com
 +.mbgo.com
++.mbhcibe.com
 +.mbhfit.com
 +.mbian.com
 +.mbiaohui.com
@@ -67033,6 +67036,7 @@
 +.meitu.com
 +.meitu.net
 +.meituaccount.com
++.meituan-ad.com
 +.meituan.com
 +.meituan.net
 +.meitubase.com
@@ -82204,6 +82208,7 @@
 +.sdxxjmgg.com
 +.sdxyxhj.com
 +.sdxzt.com
++.sdyanbao.com
 +.sdyftr.com
 +.sdyhne.com
 +.sdyhqp.com
@@ -90596,6 +90601,7 @@
 +.tecochina.net
 +.tecolighting.com
 +.tecompharma.com
++.tecorigin.com
 +.tecreal.com
 +.tecunonline.com
 +.tecyle.com
@@ -95510,6 +95516,7 @@
 +.versolsolar.com
 +.versoventure.com
 +.vertciot.com
++.vertexdoc.com
 +.vertical-china.com
 +.vertu.com
 +.very361.com
@@ -108830,6 +108837,7 @@
 +.yuaoq.com
 +.yuapt.com
 +.yubaike.com
++.yuban.cloud
 +.yubangweb.com
 +.yuboinfo.com
 +.yuboqj.com
