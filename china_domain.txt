@@ -13170,7 +13170,6 @@
 +.app86.com
 +.app887.com
 +.appadhoc.com
-+.appadhoc.net
 +.apparest.com
 +.appbi.com
 +.appbk.com
@@ -30117,6 +30116,7 @@
 +.dingtalk.net
 +.dingtalkapps.com
 +.dingtalkcloud.com
++.dingtalkcs.com
 +.dingteam.com
 +.dingtoo.com
 +.dingwei.link
@@ -77930,7 +77930,6 @@
 +.qr25.com
 +.qrcpu.com
 +.qrgiant.com
-+.qrmanhua.com
 +.qrobot.com
 +.qrprt.com
 +.qrstuvwxyzab.com
@@ -105385,6 +105384,7 @@
 +.yaochixie.com
 +.yaochufa.com
 +.yaocsoft.com
++.yaodinongye.com
 +.yaodou.net
 +.yaodu365.com
 +.yaoex.com
@@ -108109,6 +108109,7 @@
 +.youxi528.com
 +.youxi567.com
 +.youxi8282.com
++.youxi9527.com
 +.youxia.com
 +.youxiacg.com
 +.youxiagushi.com
