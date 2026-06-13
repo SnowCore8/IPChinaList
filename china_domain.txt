@@ -7611,6 +7611,7 @@
 +.698wan.com
 +.69916666.com
 +.699333.xyz
++.6996696.xyz
 +.69981.com
 +.699h5.com
 +.699pic.com
@@ -10777,6 +10778,7 @@
 +.adxvip.com
 +.adxwork.com
 +.adxyun.com
++.adxzoo.com
 +.adyoc.com
 +.adyounger.com
 +.adyuedong.com
@@ -13806,6 +13808,7 @@
 +.augurit.com
 +.augustcn.com
 +.auiou.com
++.aukcl.win
 +.aulacn.com
 +.auldey.com
 +.aumantruck.com
@@ -17229,6 +17232,7 @@
 +.bjrc.com
 +.bjrcb.com
 +.bjrdhx.com
++.bjrenze.com
 +.bjreview.com
 +.bjrjgj.com
 +.bjrjtdkj.com
@@ -23932,6 +23936,7 @@
 +.clloz.com
 +.clmpg.com
 +.clngaa.com
++.clockin.biz
 +.cloooud.com
 +.cloopen.com
 +.cloopen.net
@@ -28764,6 +28769,7 @@
 +.dazhangfang.com
 +.dazhangqiu.com
 +.dazhantai.com
++.dazhe.com
 +.dazhe5.com
 +.dazheda.com
 +.dazhengtop.com
@@ -31239,6 +31245,7 @@
 +.doyoo.net
 +.doyoudo.com
 +.doyouhike.net
++.doyys.com
 +.dozview.com
 +.dp.deploy.akamai.com
 +.dp.tech
@@ -33260,7 +33267,6 @@
 +.ejtsyc.com
 +.eju.com
 +.ejuhome.com
-+.ejunshi.com
 +.ejustcn.com
 +.ejy365.com
 +.ek-edu.com
@@ -34277,6 +34283,7 @@
 +.ewtp.org
 +.ewu.cc
 +.ewuzhen.com
++.ewytek.com
 +.ewzqsyuc.link
 +.ex-silver.com
 +.ex-starch.com
@@ -43513,6 +43520,7 @@
 +.gykgsx.com
 +.gykqyy.com
 +.gyljc.com
++.gylmob.com
 +.gylwgjsyxx.com
 +.gylwyy.com
 +.gylxq.com
@@ -51087,6 +51095,7 @@
 +.hzyzxx.net
 +.hzzbco.com
 +.hzzckg.com
++.hzzfcm.com
 +.hzzfxx.com
 +.hzzh.com
 +.hzzhaobiao.com
@@ -60217,8 +60226,10 @@
 +.ko0.com
 +.koagzrxt.com
 +.koal.com
++.koala-transfer.com
 +.koalacam.net
 +.koalareading.com
++.koalaremit.com
 +.koalasolo.com
 +.koba8.com
 +.kobelco-zh.com
@@ -60924,6 +60935,7 @@
 +.kunmingbc.com
 +.kunmingguolv.net
 +.kunmingkanghui.com
++.kunpeng666888.com
 +.kunpengkg.com
 +.kunpengtn.com
 +.kunpo.cc
@@ -61382,6 +61394,7 @@
 +.landa-solenoid.com
 +.landai.com
 +.landaiwood.com
++.landao.app
 +.landbond.com
 +.landbridge.com
 +.landchina.com
@@ -61692,6 +61705,7 @@
 +.laozu.com
 +.laozuo.org
 +.lapc.cc
++.lapianpay.com
 +.lapin365.com
 +.laplace-semi.com
 +.lapostea.cfd
@@ -64109,7 +64123,6 @@
 +.lolmax.com
 +.lolmf.com
 +.lolmz.com
-+.lolopool.com
 +.loltmall.com
 +.lolxy.com
 +.lolyculture.net
@@ -64397,6 +64410,7 @@
 +.loxpo.com
 +.loyalvalleycapital.com
 +.loyar.com
++.loyea.com
 +.loyi.net
 +.loystnetwork.com
 +.lp.fyi
@@ -71561,9 +71575,11 @@
 +.nlzpy.com
 +.nm178.net
 +.nmb-bj.com
++.nmb.best
 +.nmbcp.com
 +.nmbfxy.com
 +.nmboat.com
++.nmbxd.com
 +.nmbxd1.com
 +.nmbyh.com
 +.nmcoo.com
@@ -72705,6 +72721,7 @@
 +.odaily.news
 +.odalong.com
 +.odao.com
++.odata.cc
 +.odeasports.com
 +.odict.net
 +.odinichina.com
@@ -73202,6 +73219,7 @@
 +.open189.net
 +.openaboc.com
 +.openadx.com
++.openai-hub.com
 +.openai.wf
 +.openailab.com
 +.openanolis.org
@@ -96115,7 +96133,6 @@
 +.vpsvsvps.com
 +.vpszh.com
 +.vptek.com
-+.vq7736.com
 +.vqaq.com
 +.vqjuice.com
 +.vqq.com
@@ -99494,6 +99511,7 @@
 +.wozhishang.com
 +.wozhongla.com
 +.wozhuan.com
++.wp-china-yes.net
 +.wp-hz.com
 +.wpan123.com
 +.wpceo.com
@@ -101069,6 +101087,7 @@
 +.xdyyws.com
 +.xdzhsw.com
 +.xdzu.net
++.xe-live.com
 +.xed.plus
 +.xedaojia.com
 +.xedaojia.net
@@ -103470,7 +103489,6 @@
 +.xn--4qwqc04pn0lg9h.com
 +.xn--4rrx74a.xn--vuq861b
 +.xn--4xup5j.com
-+.xn--54q23ckxiyx0e.com
 +.xn--54q249denfzw9a.net
 +.xn--54q40czz0g7xp.com
 +.xn--54qu66awkkshgsf475q.com
@@ -103488,7 +103506,6 @@
 +.xn--6frz82g
 +.xn--6kr66fp2ep1ac5edz2hy7s2wq.com
 +.xn--6krw3qs7jl59b.com
-+.xn--6m1ao1qznhjja.xn--fiqz9s
 +.xn--6oq83hzb922dnorwsomx9dzkb.com
 +.xn--6oru97cy2o.xn--czr694b
 +.xn--6qq986b3xl
@@ -109659,6 +109676,7 @@
 +.yxkjlcd.com
 +.yxkxyghx.org
 +.yxlaba.com
++.yxlady.com
 +.yxlady.net
 +.yxle.net
 +.yxlele.com
