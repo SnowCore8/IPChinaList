@@ -2743,6 +2743,7 @@
 +.1gow.net
 +.1haigtm.com
 +.1haitao.com
++.1haitun.com
 +.1hangye.com
 +.1haogu.com
 +.1haosuo.com
@@ -25650,6 +25651,7 @@
 +.coralset.com
 +.corari.com
 +.core-biopharma.com
++.core-flow.org
 +.corebai.com
 +.coreesports.net
 +.corehalo.com
@@ -30929,6 +30931,7 @@
 +.dotgate.com
 +.dothantech.com
 +.doticloud.com
++.dotreamexpo.com
 +.dotty-china.com
 +.dotwe.org
 +.dou.bz
@@ -32942,6 +32945,7 @@
 +.efficient.hk
 +.effirst.com
 +.efglobal-gy.com
++.efindtravel.com
 +.efivestar.com
 +.efl-tech.com
 +.eflagcomm.com
@@ -37472,6 +37476,7 @@
 +.gal3d.info
 +.gala-v.com
 +.galaxix.com
++.galaxy-adx.com
 +.galaxy-geely.com
 +.galaxy-immi.com
 +.galaxyappstore.com
@@ -43809,6 +43814,7 @@
 +.gzsgczb.com
 +.gzshaudio.com
 +.gzsheraton.com
++.gzshik.com
 +.gzshiran.com
 +.gzshuangbao.com
 +.gzshuimh.com
@@ -62983,6 +62989,7 @@
 +.lingxigames.com
 +.lingxing.com
 +.lingxingkj.com
++.lingxingxinli.com
 +.lingxiuwenlv.com
 +.lingxmall.com
 +.lingy.cc
@@ -68169,6 +68176,7 @@
 +.moe.xin
 +.moe123.com
 +.moe123.org
++.moe233.org
 +.moe321.com
 +.moeclub.org
 +.moedot.net
@@ -80106,6 +80114,7 @@
 +.ruixunidc.com
 +.ruixunidc.net
 +.ruiyang-ra.com
++.ruiying.online
 +.ruiying3d.com
 +.ruiyingkeji.com
 +.ruiyitech.com
@@ -93554,6 +93563,7 @@
 +.typicalchn.com
 +.typora.net
 +.typrotech.com
++.typstify.com
 +.tyqian.com
 +.tyqxzx.com
 +.tyrantg.com
@@ -93819,6 +93829,7 @@
 +.uccbikes.com
 +.uccpd.com
 +.ucdchina.com
++.ucdns22.com
 +.ucdns7.com
 +.ucdok.com
 +.ucdrs.net
@@ -101342,6 +101353,7 @@
 +.xiaohe666.com
 +.xiaoheihegame.com
 +.xiaoheima.com
++.xiaoheiribao.com
 +.xiaohelive.com
 +.xiaohengmaidan.com
 +.xiaohi.cc
@@ -104355,6 +104367,7 @@
 +.xyhygs.com
 +.xyict.com
 +.xyimg.net
++.xyingsoft.com
 +.xyj.link
 +.xyj321.com
 +.xyj618.com
@@ -113890,6 +113903,7 @@
 +.zuizhifu.com
 +.zuji360.com
 +.zujiant.com
++.zujingpai.com
 +.zujuan.com
 +.zujuanku.com
 +.zujuanyi.com
