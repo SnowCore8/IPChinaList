@@ -1503,6 +1503,7 @@
 +.113989.com
 +.113dh.com
 +.114-91.com
++.114.tel
 +.1145858.com
 +.11467.com
 +.11478.com
@@ -10158,7 +10159,6 @@
 +.aa5d.com
 +.aa65535.com
 +.aa6666.com
-+.aa67678156.com
 +.aa6f0397a3cf50d7.com
 +.aa76858896.com
 +.aa77kk.com
@@ -10361,7 +10361,6 @@
 +.account.djicdn.com
 +.account.htcvive.com
 +.account.uds-sit.lenovo.com
-+.accountboy.com
 +.accr.cc
 +.accsh.org
 +.acctdns.com
@@ -13504,6 +13503,7 @@
 +.asilu.com
 +.asim-emc.com
 +.asimi8.com
++.asinking.com
 +.asit.cc
 +.asjnu.com
 +.ask.amd.com
@@ -14952,7 +14952,9 @@
 +.bao-hulu.com
 +.bao12333.com
 +.bao369.com
++.baoanbi.com
 +.baoanchina.com
++.baoangold.com
 +.baob123.com
 +.baobanli.com
 +.baobao001.com
@@ -22170,6 +22172,7 @@
 +.chinaeinv.com
 +.chinaejiao.com
 +.chinaembassy.at
++.chinaemd.com
 +.chinaepoxy.com
 +.chinaepu.com
 +.chinaequity.net
@@ -22755,6 +22758,7 @@
 +.chinawr.net
 +.chinaws.net
 +.chinawssdxh.com
++.chinawu.com
 +.chinawudang.com
 +.chinawulong.com
 +.chinawutong.com
@@ -27559,6 +27563,7 @@
 +.cytuig.com
 +.cyuandao.com
 +.cyudun.net
++.cyuegame.com
 +.cyuew.com
 +.cyuntech.com
 +.cyvalve.com
@@ -31025,6 +31030,7 @@
 +.douyou100.com
 +.douyu.com
 +.douyu.tv
++.douyuedui.com
 +.douyuex.com
 +.douyuscdn.com
 +.douyutv.com
@@ -40050,6 +40056,7 @@
 +.goldsunchn.com
 +.goldsunmachinery.com
 +.goldsupplier.com
++.goldtianyan.com
 +.goldvole.com
 +.goldwaterhk.com
 +.goldwind.com
@@ -44255,6 +44262,8 @@
 +.haimeec.com
 +.haimi.com
 +.haimian.com
++.haimianbandstatic.com
++.haimianyinyue.com
 +.haimin.net
 +.haimini.com
 +.haimosic.com
@@ -52631,6 +52640,7 @@
 +.initcc.com
 +.initdd.com
 +.initff.com
++.initgg.com
 +.initialview.com
 +.initjj.com
 +.initkk.com
@@ -52671,6 +52681,7 @@
 +.inluckcalendar.com
 +.inmeng.net
 +.inmense.site
++.inmis.com
 +.inmuu.com
 +.inmyshow.com
 +.innatek.com
@@ -62948,6 +62959,7 @@
 +.lingxicloud.com
 +.lingxigames.com
 +.lingxing.com
++.lingxingerp.com
 +.lingxingkj.com
 +.lingxingxinli.com
 +.lingxiuwenlv.com
@@ -69179,6 +69191,7 @@
 +.myhjw.vip
 +.myhkw.com
 +.myhl-china315.com
++.myhloli.com
 +.myhm.org
 +.myhomeok.com
 +.myhongzuan.com
@@ -86947,6 +86960,7 @@
 +.step-by-step.tech
 +.step-motor.com
 +.stepelectric.com
++.stepfun.com
 +.stepsigriner.com
 +.stereorise.com
 +.steriguardmed.com
@@ -93610,6 +93624,7 @@
 +.tzujian.com
 +.tzvec.com
 +.tzvtc.com
++.tzwdsoft.com
 +.tzwpco.com
 +.tzxingtang.com
 +.tzxwzx.com
@@ -95691,7 +95706,6 @@
 +.vpgame.com
 +.vpgamecdn.com
 +.vpiaotong.com
-+.vpie.net
 +.vpimg1.com
 +.vpimg2.com
 +.vpimg3.com
@@ -100540,6 +100554,7 @@
 +.xcsc.com
 +.xcstuido.com
 +.xcsyy.com
++.xcthings.com
 +.xctmr.com
 +.xcukezmr.com
 +.xcultur.com
@@ -101978,6 +101993,7 @@
 +.xinghejoy.com
 +.xinghengedu.com
 +.xingheoa.com
++.xinghewanglu.com
 +.xinghuaport.com
 +.xinghuazixun.com
 +.xinghuo100.com
@@ -105893,7 +105909,6 @@
 +.yidaomall.com
 +.yidaomobi.com
 +.yidaplay.com
-+.yidaweb.com
 +.yide.com
 +.yideamobile.com
 +.yidejia.com
@@ -109644,6 +109659,8 @@
 +.zac1993.com
 +.zachina.org
 +.zack.asia
++.zaconad.com
++.zaconbs.com
 +.zadervice.com
 +.zaduonews.com
 +.zaecu.com
