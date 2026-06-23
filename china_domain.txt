@@ -10684,6 +10684,7 @@
 +.adxmq.com
 +.adxpand.com
 +.adxqd.com
++.adxsenmeng.com
 +.adxvip.com
 +.adxwork.com
 +.adxyun.com
@@ -11895,6 +11896,7 @@
 +.alidns.com
 +.alidns.net
 +.alidnsv4.com
++.alidnsv5.com
 +.alidz.net
 +.aliedge.com
 +.aliensidea.com
@@ -82143,6 +82145,7 @@
 +.sf-pay.com
 +.sf-saas.com
 +.sf-zs.net
++.sf.global
 +.sf007.com
 +.sf024.com
 +.sf2021.com
@@ -89841,6 +89844,7 @@
 +.tcnvmms.com
 +.tcoejox.shop
 +.tcomall.com
++.tcp-crm.com
 +.tcp.hk
 +.tcp.mk
 +.tcp.pub
