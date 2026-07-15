@@ -2079,7 +2079,6 @@
 +.16838.com
 +.1686888.com
 +.1688.com
-+.1688.xn--5tzm5g
 +.1688.xn--unup4y
 +.1688.xn--vhquv
 +.16885.com
@@ -7221,7 +7220,6 @@
 +.65ec0ea7f04562ad.com
 +.65liuxue.com
 +.65mhxy.com
-+.66.xn--vhquv
 +.6600.org
 +.66016.com
 +.660378.com
@@ -10467,6 +10465,7 @@
 +.adfunlink.com
 +.adfuns.com
 +.adg-dental.com
++.adglim.com
 +.adgomob.com
 +.adguardprivate.com
 +.adhei.com
@@ -13176,6 +13175,7 @@
 +.arayzou.com
 +.arbays.com
 +.arc-uds.com
++.arcadesos.com
 +.arcas-da.com
 +.arcdmi.com
 +.archaeuscapital.com
@@ -13420,7 +13420,6 @@
 +.asinking.com
 +.asit.cc
 +.asjnu.com
-+.ask.amd.com
 +.askci.com
 +.askdd.org
 +.askdiandian.com
@@ -14014,7 +14013,6 @@
 +.axnsc.com
 +.axon-assets-cdn.razerzone.com
 +.axon-download-cdn.razerzone.com
-+.axon.razerzone.com
 +.axq66.com
 +.axqqq.com
 +.axqswm.net
@@ -20685,6 +20683,8 @@
 +.cfcpn.com
 +.cfd-china.com
 +.cfd163.com
++.cfdns43.com
++.cfdns5.com
 +.cfdp.org
 +.cfdwater.com
 +.cfecq.com
@@ -25412,7 +25412,6 @@
 +.congzhi.com
 +.conhagroup.com
 +.conlerpharm.com
-+.connect.akamai.com
 +.conodmedical.com
 +.conoha.vip
 +.conpak.com
@@ -25429,7 +25428,6 @@
 +.constar-gd.com
 +.constasj.me
 +.constgroup.com
-+.contacts.akamai.com
 +.content.djiservice.org
 +.content4ads.com
 +.contentchina.com
@@ -25560,7 +25558,6 @@
 +.corpease.net
 +.corpize.com
 +.corpring.com
-+.cortex.razerzone.com
 +.coryes.com
 +.cos-beauty.com
 +.cos-show.com
@@ -27074,7 +27071,6 @@
 +.ctwx.net
 +.ctxcdn.com
 +.ctxcdn.net
-+.ctxcollect.com
 +.ctxcpa.com
 +.ctxirang.com
 +.cty9.com
@@ -29895,8 +29891,6 @@
 +.discount-polska.store
 +.discourse-studies.com
 +.discoversources.com
-+.discovery-sophie-pro.razerapi.com
-+.discovery.razerapi.com
 +.discovery3.razerapi.com
 +.discoveryriflescope.com
 +.discrepancye.com
@@ -40137,6 +40131,7 @@
 +.gortune.com
 +.gosailgis.com
 +.goselling.com
++.goshare2.com
 +.goshijia.com
 +.goshopjp.com
 +.gosinoic.com
@@ -44120,6 +44115,7 @@
 +.hainanruiyuan.com
 +.hainanwangdai.com
 +.hainanyouxi.com
++.hainanyuyue.com
 +.hainanzuojia.com
 +.hainawater.com
 +.hainayun.net
@@ -45398,6 +45394,7 @@
 +.hccoeutg.com
 +.hccpcba.com
 +.hcdamai.com
++.hcdns21.com
 +.hcdyhr.com
 +.hceia.com
 +.hcepay.com
@@ -50928,6 +50925,7 @@
 +.ibianma.com
 +.ibicn.com
 +.ibidian.com
++.ibidmob.com
 +.ibiji.com
 +.ibingniao.com
 +.ibiquge.info
@@ -56185,6 +56183,7 @@
 +.jlcfa.com
 +.jlcmc.com
 +.jlcops.com
++.jlcpcb.com
 +.jlcsj.com
 +.jlcsmt.com
 +.jldjam.com
@@ -60007,6 +60006,7 @@
 +.ksecit.com
 +.ksedt.com
 +.kseibitools.com
++.ksepton.com
 +.ksfang.com
 +.kshahn.com
 +.kshaoteng.com
@@ -60091,7 +60091,6 @@
 +.kszlzz.com
 +.kszpw.com
 +.kszxzsxh.com
-+.kt.lenovo.com
 +.kt007.com
 +.kt10000.com
 +.kt286.com
@@ -61825,6 +61824,7 @@
 +.lemoes.com
 +.lemon4.club
 +.lemonban.com
++.lemonedrum.com
 +.lemonnovel.com
 +.lemonpiggy.com
 +.lemonplus.asia
@@ -62621,6 +62621,7 @@
 +.linancity.com
 +.linaoyiqi.com
 +.linban.com
++.linbeigame.com
 +.linchuangsy.com
 +.lincoc.com
 +.lindapatent.com
@@ -65563,11 +65564,8 @@
 +.manhuaren.com
 +.manhuatai.com
 +.manifest-assets-staging.razerzone.com
-+.manifest-assets.razerzone.com
-+.manifest-sophie-pro.razerapi.com
-+.manifest.razerapi.com
-+.manifest3.razerapi.com
 +.manjiwang.com
++.manjuu.com
 +.mankebao.com
 +.mankewenxue.cc
 +.manlaxy.com
@@ -67811,7 +67809,6 @@
 +.mobike.com
 +.mobile.dlms.lenovo.com
 +.mobileanjian.com
-+.mobileapp-assets-dev.razerzone.com
 +.mobileapp-assets-staging.razerzone.com
 +.mobileapp-assets.razerzone.com
 +.mobilebone.org
@@ -68371,7 +68368,6 @@
 +.mru-taste.com
 +.mrutaste.com
 +.mrvcdn.com
-+.mrw.so
 +.mrwish.net
 +.mrxiao.net
 +.mrxwlb.com
@@ -68634,6 +68630,7 @@
 +.musiceol.com
 +.musicgw.com
 +.musiciansfriendsaleusa.shop
++.musiclemon.net
 +.musiness.vip
 +.muslimwww.com
 +.muspost.icu
@@ -69018,6 +69015,7 @@
 +.mymuwu.net
 +.mynatapp.cc
 +.mynb8.com
++.myndj.com
 +.mynee.com
 +.myo.ink
 +.myoas.com
@@ -72363,6 +72361,7 @@
 +.okwuyou.com
 +.okxr.com
 +.okyueche.com
++.okywqapp.com
 +.ol-cdn.com
 +.ol-img.com
 +.olabo.net
@@ -72377,6 +72376,7 @@
 +.oldding.net
 +.oldj.net
 +.oldmanemu.net
++.oldmanemu.org
 +.oldmantvg.net
 +.oldpan.me
 +.ole-vod.com
@@ -81283,7 +81283,6 @@
 +.sdjzsemi.com
 +.sdkamaiduo.com
 +.sdkbalance.com
-+.sdkclick.com
 +.sdkdch.com
 +.sdkeli.com
 +.sdkjjt.com
@@ -82729,7 +82728,6 @@
 +.sheketiandi.com
 +.shekou.com
 +.shelive.net
-+.shell.cdn.office.net
 +.shellpub.com
 +.shellsec.com
 +.shelter-china.com
@@ -83542,6 +83540,7 @@
 +.shopyy.com
 +.shorcut88.com
 +.shorologe.com
++.shortdramaop.com
 +.shortof.com
 +.shotnba.com
 +.shou-qi.com
@@ -84549,7 +84548,6 @@
 +.singfun.com
 +.singgnetworkcdn.com
 +.singhead.com
-+.single-test-3.cert-test.akamai.com
 +.singlecool.com
 +.singlegraindatabiz.com
 +.singmaan.com
@@ -87873,7 +87871,6 @@
 +.synapse-x-assets-dev.razerzone.com
 +.synapse-x-assets-staging.razerzone.com
 +.synapse-x-assets.razerzone.com
-+.synapse3ui-common-dev.razerzone.com
 +.synapse3ui-common-staging.razerzone.com
 +.synapse3ui-common.razerzone.com
 +.synball.com
@@ -88429,6 +88426,7 @@
 +.szlanyou.com
 +.szlawyers.com
 +.szlc9.com
++.szlcmb.com
 +.szlcsc.com
 +.szlcwy.com
 +.szldcc.com
@@ -90389,6 +90387,7 @@
 +.tgkjjg.com
 +.tgldfm.com
 +.tgljw.com
++.tglsinsure.com
 +.tglxh.com
 +.tgnet.com
 +.tgo-ai.com
@@ -94208,7 +94207,6 @@
 +.usonetrip.com
 +.uspard.com
 +.usqiaobao.com
-+.usst.store
 +.ustack.com
 +.ustalk.com
 +.ustarl.com
@@ -95195,7 +95193,6 @@
 +.vnanke.com
 +.vnet.com
 +.vnet.mobi
-+.vniddlg.xyz
 +.vnlin.com
 +.vnnox.com
 +.vnpy.com
@@ -107765,6 +107762,7 @@
 +.ythairui.com
 +.ythospital.com
 +.ythouse.com
++.ytj9999.com
 +.ytjcpj.com
 +.ytjiage.com
 +.ytjob.com
