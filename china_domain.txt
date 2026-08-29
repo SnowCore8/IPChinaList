@@ -1630,6 +1630,7 @@
 +.123bo.com
 +.123boligang.com
 +.123cha.com
++.123clouddrive.net
 +.123du.cc
 +.123ems.com
 +.123fc.com
@@ -2610,6 +2611,7 @@
 +.1f6cd3ca611032.beer
 +.1f71060e75b35349.com
 +.1fangchan.com
++.1fly.fun
 +.1foo.com
 +.1fooai.com
 +.1gaifang.com
@@ -6154,6 +6156,7 @@
 +.52zy.com
 +.5306.com
 +.53155.vip
++.53164836.com
 +.531pool.com
 +.532106.com
 +.53233.org
@@ -8778,6 +8781,7 @@
 +.8win.net
 +.8wq.com
 +.8wss.com
++.8x.fit
 +.8x14khzwmi.com
 +.8x5vviy4r2.com
 +.8x6x.com
@@ -9082,6 +9086,8 @@
 +.920uc.com
 +.921.com
 +.9211.com
++.9212c21.com
++.9212c7.com
 +.9217fdb98dcc13a8.com
 +.9217web.com
 +.92220556.com
@@ -9494,7 +9500,6 @@
 +.987you.com
 +.98809.com
 +.988848a9d1013.beer
-+.988878.com
 +.98892.com
 +.988dns.com
 +.988sl.com
@@ -13680,7 +13685,6 @@
 +.auxtelecom.com
 +.auxyl.com
 +.auy07161km.com
-+.auy07211km.com
 +.auy07230km.com
 +.auyou.com
 +.av-ic.com
@@ -19820,7 +19824,6 @@
 +.cctcct.com
 +.cctcdn.com
 +.cctek.com
-+.cctg.cc
 +.cctheze.com
 +.cctime.com
 +.cction.com
@@ -20858,7 +20861,6 @@
 +.champsely.com
 +.chan.ink
 +.chance-ad.com
-+.chanced112.com
 +.chancel.ltd
 +.chandao.net
 +.chandashi.com
@@ -28788,7 +28790,6 @@
 +.deemos.com
 +.deep56.com
 +.deepblog.net
-+.deepc.cc
 +.deepcloudsdp.com
 +.deepcoin.red
 +.deepcool.com
@@ -30884,7 +30885,6 @@
 +.dpfile.com
 +.dpgz.com
 +.dpin100.com
-+.dpjszs.com
 +.dpkyz.com
 +.dplor.com
 +.dplord.com
@@ -35516,9 +35516,6 @@
 +.fittingcn.com
 +.fiu07021kl.com
 +.fiu07040kl.com
-+.fiu07050kl.com
-+.fiu07060kl.com
-+.fiu07090kl.com
 +.fiui.org
 +.fivecakes.com
 +.fivedo.net
@@ -39885,6 +39882,7 @@
 +.gongyelian.com
 +.gongyeyun.com
 +.gongyeyunwang.com
++.gongyi.center
 +.gongyi.la
 +.gongyi.net
 +.gongyi.xin
@@ -40199,6 +40197,7 @@
 +.gqsyk.com
 +.gqt168.com
 +.gqxtq.com
++.gqyvyq.com
 +.gqzewmsk8yma18.com
 +.gr-hospital.com
 +.gr3xuaov74khb.com
@@ -44502,7 +44501,6 @@
 +.haokan5.com
 +.haokanbu.com
 +.haokanqq.com
-+.haokanshipin.com
 +.haokavip.com
 +.haoke100.com
 +.haokebang.net
@@ -44702,6 +44700,7 @@
 +.hapg-hitachi.com
 +.hapi123.net
 +.hapids.com
++.hapigo.com
 +.hapingapp.com
 +.hapjs.org
 +.haplat.net
@@ -48446,6 +48445,7 @@
 +.huabeicw.com
 +.huabian.com
 +.huabianyl.com
++.huabiaolaw.com
 +.huabo.net
 +.huabokeji.com
 +.huabot.com
@@ -53213,6 +53213,7 @@
 +.itpwd.com
 +.itqaq.com
 +.itrace.cc
++.itravelsaas.com
 +.itredu.com
 +.itrid.com
 +.itrip.com
@@ -53594,6 +53595,7 @@
 +.j6n29.com
 +.j8.net
 +.j881p924q2.com
++.j8gm.com
 +.j8j9.com
 +.j95a.com
 +.j99h8.com
@@ -58255,6 +58257,7 @@
 +.k8stech.net
 +.k913.com
 +.k99.cc
++.ka016.com
 +.ka20.com
 +.ka5188.com
 +.kaaass.net
@@ -66601,7 +66604,6 @@
 +.mgongkong.com
 +.mgplay.com.tw
 +.mgryekby.com
-+.mgs123.com
 +.mgsdk.com
 +.mgse.info
 +.mgskfjfod25.com
@@ -71474,6 +71476,7 @@
 +.nskwj.com
 +.nsm-electrical.com
 +.nsmodel.com
++.nsns.in
 +.nsoad.com
 +.nsqtlcdn.cc
 +.nsqtlcdn.info
@@ -71680,6 +71683,7 @@
 +.nvshuyun.com
 +.nvsip.com
 +.nvwalive.com
++.nvwnsy.com
 +.nvwu.com
 +.nvzhanshen.com
 +.nvziwu.com
@@ -71900,6 +71904,7 @@
 +.oceandatas.com
 +.oceando.cloud
 +.oceanengine.com
++.oceanhomeplus.com
 +.oceanhood.com
 +.oceanol.com
 +.oceanorama.com
@@ -75363,7 +75368,6 @@
 +.q77777777.com
 +.q78s5.com
 +.q7kyzxq4nj.com
-+.q83v5haaz.com
 +.q88b.net
 +.q88c.net
 +.q89850n302.com
@@ -75373,6 +75377,7 @@
 +.qacn.net
 +.qae3orq9we9t7.com
 +.qaeczbxr.com
++.qagdxs.com
 +.qakkan.vip
 +.qalex.com
 +.qamemc.com
@@ -76795,6 +76800,7 @@
 +.qlxiaozhan.com
 +.qlxyedu.com
 +.qlydw.com
++.qlyfhdns.com
 +.qlyjt.com
 +.qlyygl.com
 +.qlyyqd.com
@@ -83024,6 +83030,7 @@
 +.shinkinopsae.com
 +.shinnytech.com
 +.shinva.net
++.shinvasurgical.com
 +.shinycg.com
 +.shinye-ortho.com
 +.shinyway.org
@@ -87424,6 +87431,7 @@
 +.sxmty.com
 +.sxmxwh.com
 +.sxmyh.com
++.sxnb66.xyz
 +.sxncb.com
 +.sxnxs.com
 +.sxnxxny.com
@@ -92467,6 +92475,7 @@
 +.tuboshu.com
 +.tuboshuxinxi.xyz
 +.tubutu.com
++.tucenb.com
 +.tuchong.com
 +.tuchong.net
 +.tuchuangs.com
@@ -99232,7 +99241,6 @@
 +.www-jabuank-co-jp.net
 +.www-v1.dji.com
 +.www.alphassl.com
-+.www.amd.com
 +.www.cdnetworks.com
 +.www.cg
 +.www.com.my
@@ -103671,6 +103679,7 @@
 +.xxtjdz.com
 +.xxtlw.com
 +.xxtmail.com
++.xxuuuw.com
 +.xxw001.com
 +.xxwolo.com
 +.xxxbiquge.com
@@ -104647,6 +104656,7 @@
 +.ycgzgame.com
 +.ychcqmu.com
 +.ychdzxsh.com
++.ychld.com
 +.ychr.com
 +.ychromedgeie.com
 +.ychszh.com
