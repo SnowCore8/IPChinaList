@@ -7743,7 +7743,6 @@
 +.7755330.com
 +.7755360.com
 +.7756.org
-+.7759.com
 +.776577.com
 +.7766.info
 +.7766.org
@@ -29711,6 +29710,7 @@
 +.djrhf0.com
 +.djserver.center
 +.djsh5.com
++.djsnm.app
 +.djstechpc.com
 +.djstg.com
 +.djtpf.com
@@ -52289,7 +52289,6 @@
 +.ipeijiu.com
 +.ipengchen.com
 +.ipengtai.com
-+.iper2.com
 +.ipetct.com
 +.ipexp.com
 +.ipfeibiao.com
@@ -67408,6 +67407,7 @@
 +.mono.work
 +.monolink.net
 +.monph.com
++.monsterhunteroutlanders.com
 +.monsterlin.com
 +.montage-tech.com
 +.monternet.com
@@ -71113,7 +71113,6 @@
 +.nuedcchina.com
 +.nufans.net
 +.nug08011lu.com
-+.nug08031lu.com
 +.nuhcpf.com
 +.nuhighbio.com
 +.nuist.pro
@@ -85183,6 +85182,7 @@
 +.soukuyou.com
 +.soulapp.me
 +.soulgame.mobi
++.soulharbor.work
 +.soulsky.net
 +.soulteary.com
 +.soulu365.com
@@ -88742,6 +88742,7 @@
 +.tcdnos.com
 +.tcdnos.net
 +.tcdns31.com
++.tcdns74.com
 +.tcdntip.com
 +.tcdnv3.com
 +.tcdnvod.com
@@ -92070,6 +92071,7 @@
 +.tuputech.com
 +.tuqiangcn.com
 +.tuqou.com
++.tuquge.com
 +.tuquu.com
 +.turangyq.com
 +.turboes.com
@@ -99552,7 +99554,6 @@
 +.xeeok.com
 +.xefan.com
 +.xege.org
-+.xegnfwkju.com
 +.xegymyb.xyz
 +.xehedu.com
 +.xeknow.com
@@ -104554,6 +104555,7 @@
 +.ygfengshui.com
 +.yggk.net
 +.yghsh.com
++.yghy123.com
 +.ygibao.com
 +.yginsight.com
 +.ygjctech.com
@@ -109443,6 +109445,7 @@
 +.zhangbj.com
 +.zhangchangfa.com
 +.zhangchi.art
++.zhangdkl.asia
 +.zhangdongxuan.com
 +.zhangdu.com
 +.zhangdu520.com
