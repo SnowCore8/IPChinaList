@@ -2625,7 +2625,6 @@
 +.1ka123.com
 +.1kanshu.cc
 +.1kapp.com
-+.1kcx.hk
 +.1ke.net
 +.1kic.com
 +.1kkk.com
@@ -4587,7 +4586,6 @@
 +.4-xiang.com
 +.4.biz
 +.4.plus
-+.4.xn--czrs0t
 +.4.xn--vhquv
 +.400-lighting.com
 +.400.com
@@ -8400,7 +8398,6 @@
 +.8765043b5db2cbcb.com
 +.87654321.xyz
 +.8767.com
-+.876920.com
 +.8769d53.com
 +.876dns.com
 +.8770000.com
@@ -9720,7 +9717,6 @@
 +.9p.net
 +.9pinke.com
 +.9pk.net
-+.9pkw.com
 +.9qd0wul789.com
 +.9qu.com
 +.9ria.com
@@ -10869,6 +10865,7 @@
 +.aibeike.com
 +.aibiaomei.com
 +.aibiaow.com
++.aibilun.com
 +.aibing.cc
 +.aibll.com
 +.aibo123.com
@@ -11900,6 +11897,7 @@
 +.aliyunwaf4.com
 +.aliyunwaf5.com
 +.aliyunx.com
++.alizch.com
 +.alizhaopin.com
 +.alizhizhu.com
 +.alizila.com
@@ -12714,7 +12712,6 @@
 +.api-m.com
 +.api-vod-qcloud.com
 +.api.anythinktech.com
-+.api.blipsandchitz.me
 +.api.cnno1.uds.lenovo.com
 +.api.crisp.chat
 +.api.djiservice.org
@@ -14983,7 +14980,6 @@
 +.bbobo.com
 +.bbonfire.com
 +.bbosu.com
-+.bbphonix.xyz
 +.bbpu.com
 +.bbqcdn.com
 +.bbqe.com
@@ -17974,7 +17970,6 @@
 +.bsydns.com
 +.bsydns.net
 +.bsyjrb.com
-+.bsyrimw.xyz
 +.bsyxx.com
 +.bsyyjt.com
 +.bszhly.com
@@ -19445,7 +19440,6 @@
 +.cccc-capital.com
 +.cccc-sdc.com
 +.cccc58.com
-+.cccccd.com
 +.cccclc-gd.com
 +.cccclc.com
 +.ccccoe.com
@@ -20477,6 +20471,7 @@
 +.cfd-china.com
 +.cfd163.com
 +.cfdns43.com
++.cfdns46.com
 +.cfdns5.com
 +.cfdns81.com
 +.cfdp.org
@@ -24929,6 +24924,7 @@
 +.codeaha.com
 +.codebaoku.com
 +.codebe.org
++.codebuddy.ai
 +.codebuddy.info
 +.codebuddy.net
 +.codebuddy.pro
@@ -30097,6 +30093,7 @@
 +.dnsjiasu001.com
 +.dnsjp.cc
 +.dnsjxla.com
++.dnski.com
 +.dnslin.com
 +.dnsmeasurement.com
 +.dnsmsn.com
@@ -31763,7 +31760,6 @@
 +.e36b9a1c210301.beer
 +.e3861.com
 +.e38647b2411b17c3.com
-+.e399.com
 +.e3j.co
 +.e3ol.com
 +.e4008.com
@@ -34588,7 +34584,6 @@
 +.fcsubcn.cc
 +.fcsubcn.pro
 +.fctaiwan.com
-+.fcuit.com
 +.fcvvip.com
 +.fcw0633.com
 +.fcw6.com
@@ -35522,7 +35517,6 @@
 +.fkdmg.com
 +.fkdxg.com
 +.fkeduwxxcx.com
-+.fkesfg.com
 +.fkgou.com
 +.fkguolu.com
 +.fkhdactive.com
@@ -36407,7 +36401,6 @@
 +.fujianrc.com
 +.fujiansme.com
 +.fujianyinruan.com
-+.fujincenter.com
 +.fujinjiazheng.com
 +.fujinotrade.com
 +.fujutec.com
@@ -39530,8 +39523,6 @@
 +.gohomesafe.org
 +.gohomesh.com
 +.gohong.com
-+.goi08130kh.com
-+.goi08160kh.com
 +.going-link.com
 +.gojiaju.com
 +.gokaigai.com
@@ -39774,7 +39765,6 @@
 +.goofish.pro
 +.googe.ink
 +.google-hub.com
-+.google444.com
 +.googlebbs.net
 +.googlenav.com
 +.googleplus.party
@@ -52192,7 +52182,6 @@
 +.institution2.com
 +.instome.com
 +.instreet.com
-+.instrument95.com
 +.insulators-china.com
 +.insun-china.com
 +.inswindow.com
@@ -56961,7 +56950,6 @@
 +.jsyczls.com
 +.jsyd139.com
 +.jsydns15.com
-+.jsyefc.com
 +.jsyes123.com
 +.jsyf88.com
 +.jsyfxcl.com
@@ -61149,7 +61137,6 @@
 +.le.com
 +.le365.cc
 +.le4.com
-+.le4le.com
 +.le5le.com
 +.le8.com
 +.le890.com
@@ -61597,6 +61584,7 @@
 +.lewenss.com
 +.lewenxsw.com
 +.lewifi.com
++.lewl88.com
 +.lex.download.prss.microsoft.com
 +.lexar.com
 +.lexed.org
@@ -67300,7 +67288,6 @@
 +.moark.com
 +.mob.com
 +.mob55.com
-+.mobaders.com
 +.mobaibox.com
 +.moban.com
 +.mobanhao.com
@@ -69662,7 +69649,6 @@
 +.nffq.net
 +.nffund.com
 +.nfgjhr.com
-+.nfksjkfs.com
 +.nflchina.com
 +.nflsxl.com
 +.nfmedia.com
@@ -72747,7 +72733,6 @@
 +.p5w.net
 +.p6air.com
 +.p6sai.com
-+.p77777777.com
 +.p80.net
 +.p8games.com
 +.p96q3p1m93.world
@@ -73093,7 +73078,6 @@
 +.partner.cdnetworks.com
 +.partnerboost.com
 +.party68.com
-+.pasco.cc
 +.pasertech.com
 +.pashu5.org
 +.pass7.cc
@@ -73214,6 +73198,7 @@
 +.pcdrv.com
 +.pcdtg.com
 +.pceggs.com
++.pcelves.com
 +.pceva.net
 +.pcfphs.com
 +.pcfreetime.com
@@ -76469,6 +76454,7 @@
 +.qldgd.com
 +.qldzj.com
 +.qledu.net
++.qlgfdns.com
 +.qlhimalayantm.com
 +.qlife-lab.com
 +.qliksense.lenovo.com
@@ -79544,7 +79530,6 @@
 +.s369.com
 +.s3she5k7sm.com
 +.s4g5.com
-+.s4y6lhotaw.com
 +.s4yd.com
 +.s575.com
 +.s57o79552f.com
@@ -85240,7 +85225,6 @@
 +.somsds.com
 +.sonbest.com
 +.soncci.com
-+.song001.com
 +.songcn.com
 +.songcwh.com
 +.songduwuye.com
@@ -98157,6 +98141,7 @@
 +.wordstorming.com
 +.wordsunny.com
 +.workbenchapi.com
++.workbuddy.ai
 +.workbuddy.host
 +.workbuddy.link
 +.workchat.com
@@ -102299,7 +102284,6 @@
 +.xn--eh1a34ykpl.com
 +.xn--ekr69hlr1c.xn--3ds443g
 +.xn--eqrt2g.xn--vuq861b
-+.xn--f5q14tug.xn--6qq986b3xl
 +.xn--f8qs4ctu19zr2eq64ehfmdri.xn--3ds443g
 +.xn--fhq79jyym9nh74hfm8a.com
 +.xn--fhqpn19bl91acha222foe2d.xn--3ds443g
