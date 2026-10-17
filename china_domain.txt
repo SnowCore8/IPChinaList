@@ -4487,7 +4487,6 @@
 +.3y1.com
 +.3y7h.com
 +.3yakj.com
-+.3ygww.com
 +.3yoqu.com
 +.3yt.com
 +.3yt.la
@@ -9408,6 +9407,7 @@
 +.9fav.com
 +.9fb8d5b6bff66a4d.com
 +.9fbank.com
++.9fe06a.fyi
 +.9fe3e7d4c10311.beer
 +.9fh5.com
 +.9first.com
@@ -17443,7 +17443,6 @@
 +.bpqwxsh.com
 +.bpsemi.com
 +.bpteach.com
-+.bpuvuun0xg.com
 +.bpxxfw.com
 +.bpxxvo.com
 +.bq04.com
@@ -29233,6 +29232,7 @@
 +.ditiezu.com
 +.ditiezu.net
 +.ditrit.com
++.dittocdn.com
 +.ditu.live.com
 +.dituhui.com
 +.dituw.net
@@ -29598,6 +29598,7 @@
 +.dns-waf.com
 +.dns.com
 +.dns.la
++.dns.lat
 +.dns.pub
 +.dns002.com
 +.dns0755.net
@@ -36427,7 +36428,6 @@
 +.g1080.com
 +.g12e.com
 +.g12e.org
-+.g15wt3ci68.com
 +.g188.net
 +.g1c5.com
 +.g1d.net
@@ -39267,7 +39267,6 @@
 +.googleplus.party
 +.googleppy.com
 +.googlevoice.org
-+.googley8rb.com
 +.googleyixia.com
 +.googoc.com
 +.googol-power.com
@@ -39524,6 +39523,7 @@
 +.graueneko.xyz
 +.gravity-engine.com
 +.graz.quest
++.grboi.com
 +.grcbank.com
 +.grchina.com
 +.great-future.com
@@ -55507,7 +55507,6 @@
 +.johnlz.com
 +.johnmedia.com
 +.johouse.com
-+.joi09110pt.com
 +.joiest.com
 +.joinchitchat.com
 +.joindata.net
@@ -74205,6 +74204,7 @@
 +.pymh.com
 +.pyneo.com
 +.pyou.com
++.pyquan.com
 +.pyral07m8m.com
 +.pyrc.net
 +.pyshszh.com
@@ -81445,6 +81445,7 @@
 +.shengsci.com
 +.shengshizhicheng.com
 +.shengtai.com
++.shengtai.cyou
 +.shengtaigroup.net
 +.shengtian.com
 +.shengtiangames.com
@@ -88725,6 +88726,7 @@
 +.tenganxinxi.com
 +.tengbai-it.com
 +.tengbo.cc
++.tengcanxi.com
 +.tengchangjiancai.com
 +.tengdatumu.com
 +.tengdawl.com
@@ -99049,6 +99051,7 @@
 +.xhjyxxw.com
 +.xhlcsl.com
 +.xhlsgs.com
++.xhlylx.com
 +.xhma.com
 +.xhmedia.com
 +.xhmwxy.com
